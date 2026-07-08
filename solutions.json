@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "44",
+    "problemTitle": "Wildcard Matching",
+    "problemSlug": "wildcard-matching",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "139 ms",
+    "memory": "54.9 MB",
+    "submissionId": "2060173946",
+    "timestamp": "1783494960",
+    "path": "Hard/0044_Wildcard_Matching.cpp"
+  }
+]
