@@ -11,5 +11,18 @@
     "submissionId": "2060173946",
     "timestamp": "1783494960",
     "path": "Hard/0044_Wildcard_Matching.cpp"
+  },
+  {
+    "problemId": "1035",
+    "problemTitle": "Cousins in Binary Tree",
+    "problemSlug": "cousins-in-binary-tree",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.1 MB",
+    "submissionId": "2061116887",
+    "timestamp": "1783560739",
+    "path": "Easy/1035_Cousins_in_Binary_Tree.cpp"
   }
 ]
