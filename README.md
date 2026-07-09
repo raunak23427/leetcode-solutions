@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
-*No easy problems solved yet.*
+- Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 
 ## Medium
 
@@ -18,7 +18,7 @@ Total Solved: 1
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 0 |
 | Hard | 1 |
 
