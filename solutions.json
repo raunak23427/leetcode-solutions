@@ -24,5 +24,18 @@
     "submissionId": "2061116887",
     "timestamp": "1783560739",
     "path": "Easy/1035_Cousins_in_Binary_Tree.cpp"
+  },
+  {
+    "problemId": "199",
+    "problemTitle": "Binary Tree Right Side View",
+    "problemSlug": "binary-tree-right-side-view",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.9 MB",
+    "submissionId": "2062512964",
+    "timestamp": "1783664921",
+    "path": "Medium/0199_Binary_Tree_Right_Side_View.cpp"
   }
 ]
