@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 3
+Total Solved: 4
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 3
 ## Hard
 
 - Wildcard Matching ([C++](Hard/0044_Wildcard_Matching.cpp))
+- Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
 
 ## Statistics
 
@@ -20,7 +21,7 @@ Total Solved: 3
 |------------|--------|
 | Easy | 1 |
 | Medium | 1 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
