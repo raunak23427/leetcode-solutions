@@ -37,5 +37,18 @@
     "submissionId": "2062512964",
     "timestamp": "1783664921",
     "path": "Medium/0199_Binary_Tree_Right_Side_View.cpp"
+  },
+  {
+    "problemId": "1029",
+    "problemTitle": "Vertical Order Traversal of a Binary Tree",
+    "problemSlug": "vertical-order-traversal-of-a-binary-tree",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.8 MB",
+    "submissionId": "2062793814",
+    "timestamp": "1783682678",
+    "path": "Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp"
   }
 ]
