@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 2
+Total Solved: 3
 
 ## Easy
 
@@ -8,7 +8,7 @@ Total Solved: 2
 
 ## Medium
 
-*No medium problems solved yet.*
+- Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 
 ## Hard
 
@@ -19,7 +19,7 @@ Total Solved: 2
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 1 |
 
 ---
