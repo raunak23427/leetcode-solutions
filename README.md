@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 4
 
 ## Medium
 
+- Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 
 ## Hard
@@ -20,7 +21,7 @@ Total Solved: 4
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 2 |
 
 ---
