@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 5
 ## Hard
 
 - Wildcard Matching ([C++](Hard/0044_Wildcard_Matching.cpp))
+- Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
 
 ## Statistics
@@ -22,7 +23,7 @@ Total Solved: 5
 |------------|--------|
 | Easy | 1 |
 | Medium | 2 |
-| Hard | 2 |
+| Hard | 3 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
