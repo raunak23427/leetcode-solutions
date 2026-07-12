@@ -63,5 +63,18 @@
     "submissionId": "2063469245",
     "timestamp": "1783745938",
     "path": "Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp"
+  },
+  {
+    "problemId": "115",
+    "problemTitle": "Distinct Subsequences",
+    "problemSlug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "29 ms",
+    "memory": "44.3 MB",
+    "submissionId": "2064650043",
+    "timestamp": "1783836532",
+    "path": "Hard/0115_Distinct_Subsequences.cpp"
   }
 ]
