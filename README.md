@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 6
 
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
+- Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 
 ## Hard
 
@@ -22,7 +23,7 @@ Total Solved: 6
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 3 |
 
 ---
