@@ -76,5 +76,18 @@
     "submissionId": "2065519633",
     "timestamp": "1783904433",
     "path": "Hard/0115_Distinct_Subsequences.cpp"
+  },
+  {
+    "problemId": "2461",
+    "problemTitle": "Amount of Time for Binary Tree to Be Infected",
+    "problemSlug": "amount-of-time-for-binary-tree-to-be-infected",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "8 ms",
+    "memory": "129.6 MB",
+    "submissionId": "2065986446",
+    "timestamp": "1783937407",
+    "path": "Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp"
   }
 ]
