@@ -115,5 +115,18 @@
     "submissionId": "2067110788",
     "timestamp": "1784017568",
     "path": "Medium/0784_Insert_into_a_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "783",
+    "problemTitle": "Search in a Binary Search Tree",
+    "problemSlug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "35.5 MB",
+    "submissionId": "2067123509",
+    "timestamp": "1784018377",
+    "path": "Easy/0783_Search_in_a_Binary_Search_Tree.cpp"
   }
 ]
