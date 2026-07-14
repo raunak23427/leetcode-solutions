@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
+- Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 
 ## Medium
@@ -24,7 +25,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 4 |
 | Hard | 4 |
 
