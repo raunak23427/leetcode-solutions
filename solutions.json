@@ -89,5 +89,18 @@
     "submissionId": "2065986446",
     "timestamp": "1783937407",
     "path": "Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp"
+  },
+  {
+    "problemId": "124",
+    "problemTitle": "Binary Tree Maximum Path Sum",
+    "problemSlug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.9 MB",
+    "submissionId": "2066732525",
+    "timestamp": "1783990777",
+    "path": "Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp"
   }
 ]
