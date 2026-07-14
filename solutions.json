@@ -102,5 +102,18 @@
     "submissionId": "2066732525",
     "timestamp": "1783990777",
     "path": "Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp"
+  },
+  {
+    "problemId": "784",
+    "problemTitle": "Insert into a Binary Search Tree",
+    "problemSlug": "insert-into-a-binary-search-tree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "59.3 MB",
+    "submissionId": "2067110788",
+    "timestamp": "1784017568",
+    "path": "Medium/0784_Insert_into_a_Binary_Search_Tree.cpp"
   }
 ]
