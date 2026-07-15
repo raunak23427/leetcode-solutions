@@ -136,10 +136,10 @@
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "3 ms",
+    "runtime": "0 ms",
     "memory": "8.5 MB",
-    "submissionId": "2068844023",
-    "timestamp": "1784132145",
+    "submissionId": "2068850549",
+    "timestamp": "1784132440",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
   }
 ]
