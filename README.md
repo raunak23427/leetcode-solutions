@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
+- GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 
 ## Medium
 
@@ -25,7 +26,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 4 |
 | Hard | 4 |
 
