@@ -141,5 +141,18 @@
     "submissionId": "2068850549",
     "timestamp": "1784132440",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
+  },
+  {
+    "problemId": "3583",
+    "problemTitle": "Sorted GCD Pair Queries",
+    "problemSlug": "sorted-gcd-pair-queries",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "27 ms",
+    "memory": "134.2 MB",
+    "submissionId": "2070945648",
+    "timestamp": "1784281379",
+    "path": "Hard/3583_Sorted_GCD_Pair_Queries.cpp"
   }
 ]
