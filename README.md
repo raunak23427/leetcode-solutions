@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 11
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Binary Tree Maximum Path Sum ([C++](Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
+- Sorted GCD Pair Queries ([C++](Hard/3583_Sorted_GCD_Pair_Queries.cpp))
 
 ## Statistics
 
@@ -28,7 +29,7 @@ Total Solved: 11
 |------------|--------|
 | Easy | 3 |
 | Medium | 4 |
-| Hard | 4 |
+| Hard | 5 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
