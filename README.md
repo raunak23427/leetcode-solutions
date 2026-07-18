@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 13
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
+- Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
 
 ## Hard
 
@@ -29,7 +30,7 @@ Total Solved: 13
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 5 |
 
 ---
