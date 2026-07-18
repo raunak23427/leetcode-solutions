@@ -167,5 +167,18 @@
     "submissionId": "2071777345",
     "timestamp": "1784351540",
     "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp"
+  },
+  {
+    "problemId": "4242",
+    "problemTitle": "Sum of GCD of Formed Pairs",
+    "problemSlug": "sum-of-gcd-of-formed-pairs",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "81 ms",
+    "memory": "155.6 MB",
+    "submissionId": "2071814313",
+    "timestamp": "1784353704",
+    "path": "Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp"
   }
 ]
