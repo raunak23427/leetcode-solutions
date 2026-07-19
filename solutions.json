@@ -180,5 +180,18 @@
     "submissionId": "2071814313",
     "timestamp": "1784353704",
     "path": "Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp"
+  },
+  {
+    "problemId": "1212",
+    "problemTitle": "Sequential Digits",
+    "problemSlug": "sequential-digits",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.3 MB",
+    "submissionId": "2073366421",
+    "timestamp": "1784458311",
+    "path": "Medium/1212_Sequential_Digits.cpp"
   }
 ]
