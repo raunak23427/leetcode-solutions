@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 14
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
+- Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
 
@@ -30,7 +31,7 @@ Total Solved: 14
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 5 |
 
 ---
