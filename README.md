@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 15
 
 ## Medium
 
+- 3Sum ([C++](Medium/0015_3Sum.cpp))
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
@@ -31,7 +32,7 @@ Total Solved: 15
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 6 |
+| Medium | 7 |
 | Hard | 5 |
 
 ---
