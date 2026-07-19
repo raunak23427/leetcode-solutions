@@ -193,5 +193,18 @@
     "submissionId": "2073366421",
     "timestamp": "1784458311",
     "path": "Medium/1212_Sequential_Digits.cpp"
+  },
+  {
+    "problemId": "15",
+    "problemTitle": "3Sum",
+    "problemSlug": "3sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "39 ms",
+    "memory": "29.2 MB",
+    "submissionId": "2073421212",
+    "timestamp": "1784462198",
+    "path": "Medium/0015_3Sum.cpp"
   }
 ]
