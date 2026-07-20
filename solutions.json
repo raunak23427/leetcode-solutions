@@ -219,5 +219,18 @@
     "submissionId": "2074604055",
     "timestamp": "1784554116",
     "path": "Medium/0008_String_to_Integer_atoi.cpp"
+  },
+  {
+    "problemId": "1386",
+    "problemTitle": "Shift 2D Grid",
+    "problemSlug": "shift-2d-grid",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "18.3 MB",
+    "submissionId": "2074604435",
+    "timestamp": "1784554135",
+    "path": "Easy/1386_Shift_2D_Grid.cpp"
   }
 ]
