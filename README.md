@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
+- Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 
@@ -32,7 +33,7 @@ Total Solved: 17
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 8 |
 | Hard | 5 |
 
