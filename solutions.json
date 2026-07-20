@@ -206,5 +206,18 @@
     "submissionId": "2073421212",
     "timestamp": "1784462198",
     "path": "Medium/0015_3Sum.cpp"
+  },
+  {
+    "problemId": "8",
+    "problemTitle": "String to Integer (atoi)",
+    "problemSlug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "9.1 MB",
+    "submissionId": "2074604055",
+    "timestamp": "1784554116",
+    "path": "Medium/0008_String_to_Integer_atoi.cpp"
   }
 ]
