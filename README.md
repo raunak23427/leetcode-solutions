@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 16
+Total Solved: 17
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 16
 
 ## Medium
 
+- String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
 - 3Sum ([C++](Medium/0015_3Sum.cpp))
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
@@ -32,7 +33,7 @@ Total Solved: 16
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 5 |
 
 ---
