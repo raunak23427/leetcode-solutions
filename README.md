@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
+- Minimum Distance Between BST Nodes ([C++](Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
@@ -34,7 +35,7 @@ Total Solved: 19
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 9 |
 | Hard | 5 |
 
