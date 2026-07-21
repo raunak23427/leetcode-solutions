@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 23
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
+- Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
@@ -39,7 +40,7 @@ Total Solved: 23
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 5 |
 
 ---
