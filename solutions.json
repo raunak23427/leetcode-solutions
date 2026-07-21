@@ -232,5 +232,18 @@
     "submissionId": "2074604435",
     "timestamp": "1784554135",
     "path": "Easy/1386_Shift_2D_Grid.cpp"
+  },
+  {
+    "problemId": "98",
+    "problemTitle": "Validate Binary Search Tree",
+    "problemSlug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "21.8 MB",
+    "submissionId": "2075470365",
+    "timestamp": "1784617667",
+    "path": "Medium/0098_Validate_Binary_Search_Tree.cpp"
   }
 ]
