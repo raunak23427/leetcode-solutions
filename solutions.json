@@ -284,5 +284,18 @@
     "submissionId": "2075653687",
     "timestamp": "1784628080",
     "path": "Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "3805",
+    "problemTitle": "Maximize Active Section with Trade I",
+    "problemSlug": "maximize-active-section-with-trade-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "182 ms",
+    "memory": "175.9 MB",
+    "submissionId": "2075722722",
+    "timestamp": "1784631943",
+    "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.cpp"
   }
 ]
