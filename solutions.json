@@ -258,5 +258,18 @@
     "submissionId": "2075565141",
     "timestamp": "1784623651",
     "path": "Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp"
+  },
+  {
+    "problemId": "230",
+    "problemTitle": "Kth Smallest Element in a BST",
+    "problemSlug": "kth-smallest-element-in-a-bst",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "24.4 MB",
+    "submissionId": "2075587749",
+    "timestamp": "1784624806",
+    "path": "Medium/0230_Kth_Smallest_Element_in_a_BST.cpp"
   }
 ]
