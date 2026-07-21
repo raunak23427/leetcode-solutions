@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 22
+Total Solved: 23
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 22
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
+- Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
 
 ## Hard
@@ -38,7 +39,7 @@ Total Solved: 22
 | Difficulty | Count |
 |------------|--------|
 | Easy | 7 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 5 |
 
 ---
