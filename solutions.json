@@ -323,5 +323,18 @@
     "submissionId": "2075937002",
     "timestamp": "1784644353",
     "path": "Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp"
+  },
+  {
+    "problemId": "222",
+    "problemTitle": "Count Complete Tree Nodes",
+    "problemSlug": "count-complete-tree-nodes",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.4 MB",
+    "submissionId": "2076046329",
+    "timestamp": "1784649528",
+    "path": "Easy/0222_Count_Complete_Tree_Nodes.cpp"
   }
 ]
