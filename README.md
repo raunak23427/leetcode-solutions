@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
 - Convert Sorted Array to Binary Search Tree ([C++](Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
+- Count Complete Tree Nodes ([C++](Easy/0222_Count_Complete_Tree_Nodes.cpp))
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Minimum Distance Between BST Nodes ([C++](Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
@@ -40,7 +41,7 @@ Total Solved: 25
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 13 |
 | Hard | 5 |
 
