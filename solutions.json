@@ -271,5 +271,18 @@
     "submissionId": "2075587749",
     "timestamp": "1784624806",
     "path": "Medium/0230_Kth_Smallest_Element_in_a_BST.cpp"
+  },
+  {
+    "problemId": "108",
+    "problemTitle": "Convert Sorted Array to Binary Search Tree",
+    "problemSlug": "convert-sorted-array-to-binary-search-tree",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "23.2 MB",
+    "submissionId": "2075653687",
+    "timestamp": "1784628080",
+    "path": "Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp"
   }
 ]
