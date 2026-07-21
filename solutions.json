@@ -297,5 +297,18 @@
     "submissionId": "2075722722",
     "timestamp": "1784631943",
     "path": "Medium/3805_Maximize_Active_Section_with_Trade_I.cpp"
+  },
+  {
+    "problemId": "1159",
+    "problemTitle": "Smallest Subsequence of Distinct Characters",
+    "problemSlug": "smallest-subsequence-of-distinct-characters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "submissionId": "2075724655",
+    "timestamp": "1784632073",
+    "path": "Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp"
   }
 ]
