@@ -245,5 +245,18 @@
     "submissionId": "2075470365",
     "timestamp": "1784617667",
     "path": "Medium/0098_Validate_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "799",
+    "problemTitle": "Minimum Distance Between BST Nodes",
+    "problemSlug": "minimum-distance-between-bst-nodes",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2075565141",
+    "timestamp": "1784623651",
+    "path": "Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp"
   }
 ]
