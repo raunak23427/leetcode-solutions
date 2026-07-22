@@ -349,5 +349,18 @@
     "submissionId": "2076951635",
     "timestamp": "1784714397",
     "path": "Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "975",
+    "problemTitle": "Range Sum of BST",
+    "problemSlug": "range-sum-of-bst",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "64.9 MB",
+    "submissionId": "2076989076",
+    "timestamp": "1784716479",
+    "path": "Easy/0975_Range_Sum_of_BST.cpp"
   }
 ]
