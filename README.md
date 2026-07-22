@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 26
+Total Solved: 27
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 26
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
+- Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
@@ -42,7 +43,7 @@ Total Solved: 26
 | Difficulty | Count |
 |------------|--------|
 | Easy | 8 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 5 |
 
 ---
