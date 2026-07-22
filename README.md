@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 27
 - Count Complete Tree Nodes ([C++](Easy/0222_Count_Complete_Tree_Nodes.cpp))
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Minimum Distance Between BST Nodes ([C++](Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp))
+- Range Sum of BST ([C++](Easy/0975_Range_Sum_of_BST.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
@@ -42,7 +43,7 @@ Total Solved: 27
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 14 |
 | Hard | 5 |
 
