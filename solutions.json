@@ -336,5 +336,18 @@
     "submissionId": "2076046329",
     "timestamp": "1784649528",
     "path": "Easy/0222_Count_Complete_Tree_Nodes.cpp"
+  },
+  {
+    "problemId": "235",
+    "problemTitle": "Lowest Common Ancestor of a Binary Search Tree",
+    "problemSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "20 ms",
+    "memory": "23.4 MB",
+    "submissionId": "2076951635",
+    "timestamp": "1784714397",
+    "path": "Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp"
   }
 ]
