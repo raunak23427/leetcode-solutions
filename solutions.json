@@ -401,5 +401,18 @@
     "submissionId": "2078007734",
     "timestamp": "1784788458",
     "path": "Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp"
+  },
+  {
+    "problemId": "3824",
+    "problemTitle": "Number of Unique XOR Triplets I",
+    "problemSlug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "198.7 MB",
+    "submissionId": "2078611326",
+    "timestamp": "1784822456",
+    "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp"
   }
 ]
