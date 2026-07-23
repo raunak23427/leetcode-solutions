@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
@@ -31,6 +31,7 @@ Total Solved: 31
 - All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
+- Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
 
 ## Hard
@@ -47,7 +48,7 @@ Total Solved: 31
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 6 |
 
 ---
