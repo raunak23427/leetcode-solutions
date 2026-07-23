@@ -375,5 +375,18 @@
     "submissionId": "2077927247",
     "timestamp": "1784784705",
     "path": "Hard/3804_Maximize_Active_Section_with_Trade_II.cpp"
+  },
+  {
+    "problemId": "1427",
+    "problemTitle": "All Elements in Two Binary Search Trees",
+    "problemSlug": "all-elements-in-two-binary-search-trees",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "13 ms",
+    "memory": "86.4 MB",
+    "submissionId": "2077939681",
+    "timestamp": "1784785337",
+    "path": "Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp"
   }
 ]
