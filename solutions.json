@@ -388,5 +388,18 @@
     "submissionId": "2077939681",
     "timestamp": "1784785337",
     "path": "Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp"
+  },
+  {
+    "problemId": "109",
+    "problemTitle": "Convert Sorted List to Binary Search Tree",
+    "problemSlug": "convert-sorted-list-to-binary-search-tree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "5 ms",
+    "memory": "33.3 MB",
+    "submissionId": "2078007734",
+    "timestamp": "1784788458",
+    "path": "Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp"
   }
 ]
