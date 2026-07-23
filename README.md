@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 29
+Total Solved: 30
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 29
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
+- All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
@@ -45,7 +46,7 @@ Total Solved: 29
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 6 |
 
 ---
