@@ -362,5 +362,18 @@
     "submissionId": "2076989076",
     "timestamp": "1784716479",
     "path": "Easy/0975_Range_Sum_of_BST.cpp"
+  },
+  {
+    "problemId": "3804",
+    "problemTitle": "Maximize Active Section with Trade II",
+    "problemSlug": "maximize-active-section-with-trade-ii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "223 ms",
+    "memory": "255.7 MB",
+    "submissionId": "2077927247",
+    "timestamp": "1784784705",
+    "path": "Hard/3804_Maximize_Active_Section_with_Trade_II.cpp"
   }
 ]
