@@ -427,5 +427,18 @@
     "submissionId": "2080321129",
     "timestamp": "1784958583",
     "path": "Medium/0038_Count_and_Say.cpp"
+  },
+  {
+    "problemId": "3859",
+    "problemTitle": "Maximum Product of Two Digits",
+    "problemSlug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "submissionId": "2080332663",
+    "timestamp": "1784959157",
+    "path": "Easy/3859_Maximum_Product_of_Two_Digits.cpp"
   }
 ]
