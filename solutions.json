@@ -414,5 +414,18 @@
     "submissionId": "2078611326",
     "timestamp": "1784822456",
     "path": "Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp"
+  },
+  {
+    "problemId": "38",
+    "problemTitle": "Count and Say",
+    "problemSlug": "count-and-say",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "9.9 MB",
+    "submissionId": "2080321129",
+    "timestamp": "1784958583",
+    "path": "Medium/0038_Count_and_Say.cpp"
   }
 ]
