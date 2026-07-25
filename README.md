@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 32
+Total Solved: 33
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 32
 
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
 - 3Sum ([C++](Medium/0015_3Sum.cpp))
+- Count and Say ([C++](Medium/0038_Count_and_Say.cpp))
 - Validate Binary Search Tree ([C++](Medium/0098_Validate_Binary_Search_Tree.cpp))
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
@@ -48,7 +49,7 @@ Total Solved: 32
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 6 |
 
 ---
