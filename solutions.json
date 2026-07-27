@@ -440,5 +440,18 @@
     "submissionId": "2080332663",
     "timestamp": "1784959157",
     "path": "Easy/3859_Maximum_Product_of_Two_Digits.cpp"
+  },
+  {
+    "problemId": "1574",
+    "problemTitle": "Maximum Product of Two Elements in an Array",
+    "problemSlug": "maximum-product-of-two-elements-in-an-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.3 MB",
+    "submissionId": "2082792707",
+    "timestamp": "1785127228",
+    "path": "Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp"
   }
 ]
