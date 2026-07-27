@@ -453,5 +453,18 @@
     "submissionId": "2082792707",
     "timestamp": "1785127228",
     "path": "Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp"
+  },
+  {
+    "problemId": "6",
+    "problemTitle": "Zigzag Conversion",
+    "problemSlug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "14 MB",
+    "submissionId": "2082805500",
+    "timestamp": "1785127872",
+    "path": "Medium/0006_Zigzag_Conversion.cpp"
   }
 ]
