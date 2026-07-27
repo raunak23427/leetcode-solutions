@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 34
 - Range Sum of BST ([C++](Easy/0975_Range_Sum_of_BST.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
+- Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -49,7 +50,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 18 |
 | Hard | 6 |
 
