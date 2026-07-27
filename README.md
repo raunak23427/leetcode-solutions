@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 35
 
 ## Medium
 
+- Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
 - 3Sum ([C++](Medium/0015_3Sum.cpp))
 - Count and Say ([C++](Medium/0038_Count_and_Say.cpp))
@@ -51,7 +52,7 @@ Total Solved: 35
 | Difficulty | Count |
 |------------|--------|
 | Easy | 11 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 6 |
 
 ---
