@@ -466,5 +466,18 @@
     "submissionId": "2082805500",
     "timestamp": "1785127872",
     "path": "Medium/0006_Zigzag_Conversion.cpp"
+  },
+  {
+    "problemId": "3812",
+    "problemTitle": "Smallest Palindromic Rearrangement I",
+    "problemSlug": "smallest-palindromic-rearrangement-i",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "37 ms",
+    "memory": "80.6 MB",
+    "submissionId": "2085237095",
+    "timestamp": "1785263523",
+    "path": "Medium/3812_Smallest_Palindromic_Rearrangement_I.cpp"
   }
 ]
