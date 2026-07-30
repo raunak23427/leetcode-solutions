@@ -479,5 +479,18 @@
     "submissionId": "2085237095",
     "timestamp": "1785263523",
     "path": "Medium/3812_Smallest_Palindromic_Rearrangement_I.cpp"
+  },
+  {
+    "problemId": "3275",
+    "problemTitle": "Minimum Number of Pushes to Type Word I",
+    "problemSlug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "submissionId": "2087647334",
+    "timestamp": "1785423148",
+    "path": "Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.cpp"
   }
 ]
