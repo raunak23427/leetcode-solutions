@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 37
+Total Solved: 38
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 37
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
+- Minimum Number of Pushes to Type Word I ([C++](Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.cpp))
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 
@@ -52,7 +53,7 @@ Total Solved: 37
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 20 |
 | Hard | 6 |
 
