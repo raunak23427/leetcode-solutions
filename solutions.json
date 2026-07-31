@@ -492,5 +492,18 @@
     "submissionId": "2087647334",
     "timestamp": "1785423148",
     "path": "Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.cpp"
+  },
+  {
+    "problemId": "3276",
+    "problemTitle": "Minimum Number of Pushes to Type Word II",
+    "problemSlug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "25.3 MB",
+    "submissionId": "2088702718",
+    "timestamp": "1785495137",
+    "path": "Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp"
   }
 ]
