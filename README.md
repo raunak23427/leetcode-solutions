@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 38
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
+- Minimum Number of Pushes to Type Word II ([C++](Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Smallest Palindromic Rearrangement I ([C++](Medium/3812_Smallest_Palindromic_Rearrangement_I.cpp))
 - Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
@@ -54,7 +55,7 @@ Total Solved: 38
 | Difficulty | Count |
 |------------|--------|
 | Easy | 12 |
-| Medium | 20 |
+| Medium | 21 |
 | Hard | 6 |
 
 ---
