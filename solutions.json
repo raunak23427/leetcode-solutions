@@ -518,5 +518,18 @@
     "submissionId": "2088753547",
     "timestamp": "1785498652",
     "path": "Medium/0045_Jump_Game_II.cpp"
+  },
+  {
+    "problemId": "486",
+    "problemTitle": "Predict the Winner",
+    "problemSlug": "predict-the-winner",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "10.3 MB",
+    "submissionId": "2089496233",
+    "timestamp": "1785561725",
+    "path": "Medium/0486_Predict_the_Winner.cpp"
   }
 ]
