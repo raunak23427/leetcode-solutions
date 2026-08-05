@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 41
+Total Solved: 42
 
 ## Easy
 
@@ -49,6 +49,7 @@ Total Solved: 41
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Binary Tree Maximum Path Sum ([C++](Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
+- Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Sorted GCD Pair Queries ([C++](Hard/3583_Sorted_GCD_Pair_Queries.cpp))
 - Maximize Active Section with Trade II ([C++](Hard/3804_Maximize_Active_Section_with_Trade_II.cpp))
 
@@ -58,7 +59,7 @@ Total Solved: 41
 |------------|--------|
 | Easy | 12 |
 | Medium | 23 |
-| Hard | 6 |
+| Hard | 7 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
