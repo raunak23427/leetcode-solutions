@@ -531,5 +531,18 @@
     "submissionId": "2089496233",
     "timestamp": "1785561725",
     "path": "Medium/0486_Predict_the_Winner.cpp"
+  },
+  {
+    "problemId": "1522",
+    "problemTitle": "Stone Game III",
+    "problemSlug": "stone-game-iii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "13 ms",
+    "memory": "136.2 MB",
+    "submissionId": "2093068147",
+    "timestamp": "1785780776",
+    "path": "Hard/1522_Stone_Game_III.cpp"
   }
 ]
