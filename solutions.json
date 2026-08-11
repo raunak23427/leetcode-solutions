@@ -544,5 +544,18 @@
     "submissionId": "2093068147",
     "timestamp": "1785780776",
     "path": "Hard/1522_Stone_Game_III.cpp"
+  },
+  {
+    "problemId": "3236",
+    "problemTitle": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "problemSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "23.1 MB",
+    "submissionId": "2103023168",
+    "timestamp": "1786461506",
+    "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp"
   }
 ]
