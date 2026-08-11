@@ -557,5 +557,18 @@
     "submissionId": "2103023168",
     "timestamp": "1786461506",
     "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp"
+  },
+  {
+    "problemId": "71",
+    "problemTitle": "Simplify Path",
+    "problemSlug": "simplify-path",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.7 MB",
+    "submissionId": "2103136915",
+    "timestamp": "1786466255",
+    "path": "Medium/0071_Simplify_Path.cpp"
   }
 ]
