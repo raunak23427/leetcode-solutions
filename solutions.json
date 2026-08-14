@@ -578,10 +578,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "11 ms",
+    "runtime": "7 ms",
     "memory": "9.4 MB",
-    "submissionId": "2106201371",
-    "timestamp": "1786685354",
+    "submissionId": "2106201547",
+    "timestamp": "1786685363",
     "path": "Medium/0005_Longest_Palindromic_Substring.cpp"
   }
 ]
