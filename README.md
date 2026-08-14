@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 44
+Total Solved: 45
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 44
 
 ## Medium
 
+- Longest Palindromic Substring ([C++](Medium/0005_Longest_Palindromic_Substring.cpp))
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
 - 3Sum ([C++](Medium/0015_3Sum.cpp))
@@ -60,7 +61,7 @@ Total Solved: 44
 | Difficulty | Count |
 |------------|--------|
 | Easy | 13 |
-| Medium | 24 |
+| Medium | 25 |
 | Hard | 7 |
 
 ---
