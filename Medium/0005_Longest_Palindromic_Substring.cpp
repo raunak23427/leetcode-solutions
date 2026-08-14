@@ -1,0 +1,44 @@
+/*
+ * Problem: Longest Palindromic Substring
+ * Problem ID: 5
+ * Difficulty: Medium
+ * Language: C++
+ * Runtime: 11 ms
+ * Memory: 9.3 MB
+ * Synced From: LeetCode
+ * Date: 2026-08-14
+ */
+
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        int start = 0;
+        int maxLen = 1;
+        
+        for(int i = 0; i < s.size(); i++) {
+            
+            int l = i, r = i;
+            while(l >= 0 && r < s.size() && s[l] == s[r]) {
+                if(r - l + 1 > maxLen) {
+                    start = l;
+                    maxLen = r - l + 1;
+                }
+                l--;
+                r++;
+            }
+            
+            l = i;
+            r = i + 1;
+            while(l >= 0 && r < s.size() && s[l] == s[r]) {
+                if(r - l + 1 > maxLen) {
+                    start = l;
+                    maxLen = r - l + 1;
+                }
+                l--;
+                r++;
+            }
+        }
+        
+        return s.substr(start, maxLen);
+    }
+};
