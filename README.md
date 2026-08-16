@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 48
+Total Solved: 49
 
 ## Easy
 
@@ -34,6 +34,7 @@ Total Solved: 48
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
+- Kth Largest Element in an Array ([C++](Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
@@ -64,7 +65,7 @@ Total Solved: 48
 | Difficulty | Count |
 |------------|--------|
 | Easy | 16 |
-| Medium | 25 |
+| Medium | 26 |
 | Hard | 7 |
 
 ---
