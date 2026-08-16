@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 46
+Total Solved: 47
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 46
 - Minimum Distance Between BST Nodes ([C++](Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp))
 - Range Sum of BST ([C++](Easy/0975_Range_Sum_of_BST.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
+- Last Stone Weight ([C++](Easy/1127_Last_Stone_Weight.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
@@ -61,7 +62,7 @@ Total Solved: 46
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 25 |
 | Hard | 7 |
 
