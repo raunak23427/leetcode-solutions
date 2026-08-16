@@ -609,5 +609,18 @@
     "submissionId": "2109070356",
     "timestamp": "1786889574",
     "path": "Easy/1127_Last_Stone_Weight.cpp"
+  },
+  {
+    "problemId": "2692",
+    "problemTitle": "Take Gifts From the Richest Pile",
+    "problemSlug": "take-gifts-from-the-richest-pile",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "13.1 MB",
+    "submissionId": "2109073771",
+    "timestamp": "1786889756",
+    "path": "Easy/2692_Take_Gifts_From_the_Richest_Pile.cpp"
   }
 ]
