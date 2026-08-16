@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 47
+Total Solved: 48
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 47
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
+- Take Gifts From the Richest Pile ([C++](Easy/2692_Take_Gifts_From_the_Richest_Pile.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Minimum Number of Pushes to Type Word I ([C++](Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.cpp))
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
@@ -62,7 +63,7 @@ Total Solved: 47
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 25 |
 | Hard | 7 |
 
