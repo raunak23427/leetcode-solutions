@@ -648,5 +648,18 @@
     "submissionId": "2111003682",
     "timestamp": "1787033573",
     "path": "Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp"
+  },
+  {
+    "problemId": "378",
+    "problemTitle": "Kth Smallest Element in a Sorted Matrix",
+    "problemSlug": "kth-smallest-element-in-a-sorted-matrix",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "12 ms",
+    "memory": "17.6 MB",
+    "submissionId": "2111477548",
+    "timestamp": "1787060630",
+    "path": "Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp"
   }
 ]
