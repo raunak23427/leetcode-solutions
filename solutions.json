@@ -635,5 +635,18 @@
     "submissionId": "2109145492",
     "timestamp": "1786893813",
     "path": "Medium/0215_Kth_Largest_Element_in_an_Array.cpp"
+  },
+  {
+    "problemId": "998",
+    "problemTitle": "Check Completeness of a Binary Tree",
+    "problemSlug": "check-completeness-of-a-binary-tree",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.6 MB",
+    "submissionId": "2111003682",
+    "timestamp": "1787033573",
+    "path": "Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp"
   }
 ]
