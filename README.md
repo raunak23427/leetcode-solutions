@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 49
+Total Solved: 50
 
 ## Easy
 
@@ -39,6 +39,7 @@ Total Solved: 49
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
+- Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
@@ -65,7 +66,7 @@ Total Solved: 49
 | Difficulty | Count |
 |------------|--------|
 | Easy | 16 |
-| Medium | 26 |
+| Medium | 27 |
 | Hard | 7 |
 
 ---
