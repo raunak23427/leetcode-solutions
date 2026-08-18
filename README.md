@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 50
+Total Solved: 51
 
 ## Easy
 
@@ -37,6 +37,7 @@ Total Solved: 50
 - Kth Largest Element in an Array ([C++](Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
+- Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
@@ -66,7 +67,7 @@ Total Solved: 50
 | Difficulty | Count |
 |------------|--------|
 | Easy | 16 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 7 |
 
 ---
