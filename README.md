@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 52
+Total Solved: 53
 
 ## Easy
 
@@ -54,6 +54,7 @@ Total Solved: 52
 
 ## Hard
 
+- Merge k Sorted Lists ([C++](Hard/0023_Merge_k_Sorted_Lists.cpp))
 - Wildcard Matching ([C++](Hard/0044_Wildcard_Matching.cpp))
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Binary Tree Maximum Path Sum ([C++](Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
@@ -69,7 +70,7 @@ Total Solved: 52
 |------------|--------|
 | Easy | 16 |
 | Medium | 28 |
-| Hard | 8 |
+| Hard | 9 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
