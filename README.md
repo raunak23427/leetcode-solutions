@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 51
+Total Solved: 52
 
 ## Easy
 
@@ -57,6 +57,7 @@ Total Solved: 51
 - Wildcard Matching ([C++](Hard/0044_Wildcard_Matching.cpp))
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Binary Tree Maximum Path Sum ([C++](Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
+- Find Median from Data Stream ([C++](Hard/0295_Find_Median_from_Data_Stream.cpp))
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Sorted GCD Pair Queries ([C++](Hard/3583_Sorted_GCD_Pair_Queries.cpp))
@@ -68,7 +69,7 @@ Total Solved: 51
 |------------|--------|
 | Easy | 16 |
 | Medium | 28 |
-| Hard | 7 |
+| Hard | 8 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
