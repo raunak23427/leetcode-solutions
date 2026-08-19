@@ -661,5 +661,18 @@
     "submissionId": "2111477548",
     "timestamp": "1787060630",
     "path": "Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp"
+  },
+  {
+    "problemId": "295",
+    "problemTitle": "Find Median from Data Stream",
+    "problemSlug": "find-median-from-data-stream",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "58 ms",
+    "memory": "148.6 MB",
+    "submissionId": "2112266100",
+    "timestamp": "1787117788",
+    "path": "Hard/0295_Find_Median_from_Data_Stream.cpp"
   }
 ]
