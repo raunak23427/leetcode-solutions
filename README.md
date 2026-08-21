@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 53
+Total Solved: 54
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 53
 
 ## Medium
 
+- Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Longest Palindromic Substring ([C++](Medium/0005_Longest_Palindromic_Substring.cpp))
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
@@ -69,7 +70,7 @@ Total Solved: 53
 | Difficulty | Count |
 |------------|--------|
 | Easy | 16 |
-| Medium | 28 |
+| Medium | 29 |
 | Hard | 9 |
 
 ---
