@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 54
+Total Solved: 55
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 54
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Minimum Number of Pushes to Type Word I ([C++](Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.cpp))
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
+- Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 
 ## Medium
@@ -69,7 +70,7 @@ Total Solved: 54
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 29 |
 | Hard | 9 |
 
