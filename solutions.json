@@ -713,5 +713,18 @@
     "submissionId": "2115644868",
     "timestamp": "1787369810",
     "path": "Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp"
+  },
+  {
+    "problemId": "2039",
+    "problemTitle": "Sum Game",
+    "problemSlug": "sum-game",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "14 MB",
+    "submissionId": "2116946668",
+    "timestamp": "1787462591",
+    "path": "Medium/2039_Sum_Game.cpp"
   }
 ]
