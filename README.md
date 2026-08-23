@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 55
+Total Solved: 56
 
 ## Easy
 
@@ -47,6 +47,7 @@ Total Solved: 55
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
+- Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Minimum Number of Pushes to Type Word II ([C++](Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
@@ -71,7 +72,7 @@ Total Solved: 55
 | Difficulty | Count |
 |------------|--------|
 | Easy | 17 |
-| Medium | 29 |
+| Medium | 30 |
 | Hard | 9 |
 
 ---
