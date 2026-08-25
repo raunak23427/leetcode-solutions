@@ -752,5 +752,18 @@
     "submissionId": "2119283660",
     "timestamp": "1787638718",
     "path": "Medium/0018_4Sum.cpp"
+  },
+  {
+    "problemId": "72",
+    "problemTitle": "Edit Distance",
+    "problemSlug": "edit-distance",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "8 ms",
+    "memory": "13.3 MB",
+    "submissionId": "2119284977",
+    "timestamp": "1787638782",
+    "path": "Medium/0072_Edit_Distance.cpp"
   }
 ]
