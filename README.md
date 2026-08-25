@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 56
+Total Solved: 57
 
 ## Easy
 
@@ -64,6 +64,7 @@ Total Solved: 56
 - Find Median from Data Stream ([C++](Hard/0295_Find_Median_from_Data_Stream.cpp))
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
+- Stone Game VIII ([C++](Hard/2002_Stone_Game_VIII.cpp))
 - Sorted GCD Pair Queries ([C++](Hard/3583_Sorted_GCD_Pair_Queries.cpp))
 - Maximize Active Section with Trade II ([C++](Hard/3804_Maximize_Active_Section_with_Trade_II.cpp))
 
@@ -73,7 +74,7 @@ Total Solved: 56
 |------------|--------|
 | Easy | 17 |
 | Medium | 30 |
-| Hard | 9 |
+| Hard | 10 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
