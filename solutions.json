@@ -739,5 +739,18 @@
     "submissionId": "2119276827",
     "timestamp": "1787638379",
     "path": "Hard/2002_Stone_Game_VIII.cpp"
+  },
+  {
+    "problemId": "18",
+    "problemTitle": "4Sum",
+    "problemSlug": "4sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "19 ms",
+    "memory": "17.4 MB",
+    "submissionId": "2119283660",
+    "timestamp": "1787638718",
+    "path": "Medium/0018_4Sum.cpp"
   }
 ]
