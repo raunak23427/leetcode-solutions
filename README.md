@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 58
+Total Solved: 59
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 58
 - Count and Say ([C++](Medium/0038_Count_and_Say.cpp))
 - Jump Game II ([C++](Medium/0045_Jump_Game_II.cpp))
 - Simplify Path ([C++](Medium/0071_Simplify_Path.cpp))
+- Edit Distance ([C++](Medium/0072_Edit_Distance.cpp))
 - Validate Binary Search Tree ([C++](Medium/0098_Validate_Binary_Search_Tree.cpp))
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
@@ -74,7 +75,7 @@ Total Solved: 58
 | Difficulty | Count |
 |------------|--------|
 | Easy | 17 |
-| Medium | 31 |
+| Medium | 32 |
 | Hard | 10 |
 
 ---
