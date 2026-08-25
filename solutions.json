@@ -726,5 +726,18 @@
     "submissionId": "2116946668",
     "timestamp": "1787462591",
     "path": "Medium/2039_Sum_Game.cpp"
+  },
+  {
+    "problemId": "2002",
+    "problemTitle": "Stone Game VIII",
+    "problemSlug": "stone-game-viii",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "107 ms",
+    "memory": "87.1 MB",
+    "submissionId": "2119276827",
+    "timestamp": "1787638379",
+    "path": "Hard/2002_Stone_Game_VIII.cpp"
   }
 ]
