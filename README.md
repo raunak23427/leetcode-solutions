@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 57
+Total Solved: 58
 
 ## Easy
 
@@ -29,6 +29,7 @@ Total Solved: 57
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
 - 3Sum ([C++](Medium/0015_3Sum.cpp))
+- 4Sum ([C++](Medium/0018_4Sum.cpp))
 - Count and Say ([C++](Medium/0038_Count_and_Say.cpp))
 - Jump Game II ([C++](Medium/0045_Jump_Game_II.cpp))
 - Simplify Path ([C++](Medium/0071_Simplify_Path.cpp))
@@ -73,7 +74,7 @@ Total Solved: 57
 | Difficulty | Count |
 |------------|--------|
 | Easy | 17 |
-| Medium | 30 |
+| Medium | 31 |
 | Hard | 10 |
 
 ---
