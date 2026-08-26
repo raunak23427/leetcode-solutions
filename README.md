@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 59
+Total Solved: 60
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 59
 - Maximum Product of Two Digits ([C++](Easy/3859_Maximum_Product_of_Two_Digits.cpp))
 - Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
+- Smallest Missing Multiple of K ([C++](Easy/4080_Smallest_Missing_Multiple_of_K.cpp))
 
 ## Medium
 
@@ -74,7 +75,7 @@ Total Solved: 59
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 32 |
 | Hard | 10 |
 
