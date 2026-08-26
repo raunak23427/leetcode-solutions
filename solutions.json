@@ -765,5 +765,18 @@
     "submissionId": "2119284977",
     "timestamp": "1787638782",
     "path": "Medium/0072_Edit_Distance.cpp"
+  },
+  {
+    "problemId": "4080",
+    "problemTitle": "Smallest Missing Multiple of K",
+    "problemSlug": "smallest-missing-multiple-of-k",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.1 MB",
+    "submissionId": "2120961655",
+    "timestamp": "1787758153",
+    "path": "Easy/4080_Smallest_Missing_Multiple_of_K.cpp"
   }
 ]
