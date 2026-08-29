@@ -778,5 +778,18 @@
     "submissionId": "2120961655",
     "timestamp": "1787758153",
     "path": "Easy/4080_Smallest_Missing_Multiple_of_K.cpp"
+  },
+  {
+    "problemId": "3219",
+    "problemTitle": "Make Lexicographically Smallest Array by Swapping Elements",
+    "problemSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "178 ms",
+    "memory": "165.9 MB",
+    "submissionId": "2123691217",
+    "timestamp": "1787997012",
+    "path": "Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp"
   }
 ]
