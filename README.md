@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 61
+Total Solved: 62
 
 ## Easy
 
@@ -58,6 +58,7 @@ Total Solved: 61
 - Smallest Palindromic Rearrangement I ([C++](Medium/3812_Smallest_Palindromic_Rearrangement_I.cpp))
 - Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
+- Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 
 ## Hard
 
@@ -77,7 +78,7 @@ Total Solved: 61
 | Difficulty | Count |
 |------------|--------|
 | Easy | 18 |
-| Medium | 33 |
+| Medium | 34 |
 | Hard | 10 |
 
 ---
