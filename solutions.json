@@ -791,5 +791,18 @@
     "submissionId": "2123691217",
     "timestamp": "1787997012",
     "path": "Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp"
+  },
+  {
+    "problemId": "4258",
+    "problemTitle": "Construct Uniform Parity Array II",
+    "problemSlug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "165.8 MB",
+    "submissionId": "2130035484",
+    "timestamp": "1788463245",
+    "path": "Medium/4258_Construct_Uniform_Parity_Array_II.cpp"
   }
 ]
