@@ -817,5 +817,18 @@
     "submissionId": "2131777853",
     "timestamp": "1788616664",
     "path": "Medium/4285_Smallest_Stable_Index_II.cpp"
+  },
+  {
+    "problemId": "64",
+    "problemTitle": "Minimum Path Sum",
+    "problemSlug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.3 MB",
+    "submissionId": "2131779517",
+    "timestamp": "1788616758",
+    "path": "Medium/0064_Minimum_Path_Sum.cpp"
   }
 ]
