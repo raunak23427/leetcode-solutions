@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 62
+Total Solved: 63
 
 ## Easy
 
@@ -59,6 +59,7 @@ Total Solved: 62
 - Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
+- Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
 
 ## Hard
 
@@ -78,7 +79,7 @@ Total Solved: 62
 | Difficulty | Count |
 |------------|--------|
 | Easy | 18 |
-| Medium | 34 |
+| Medium | 35 |
 | Hard | 10 |
 
 ---
