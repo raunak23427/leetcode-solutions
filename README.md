@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 63
+Total Solved: 64
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 63
 - 4Sum ([C++](Medium/0018_4Sum.cpp))
 - Count and Say ([C++](Medium/0038_Count_and_Say.cpp))
 - Jump Game II ([C++](Medium/0045_Jump_Game_II.cpp))
+- Minimum Path Sum ([C++](Medium/0064_Minimum_Path_Sum.cpp))
 - Simplify Path ([C++](Medium/0071_Simplify_Path.cpp))
 - Edit Distance ([C++](Medium/0072_Edit_Distance.cpp))
 - Validate Binary Search Tree ([C++](Medium/0098_Validate_Binary_Search_Tree.cpp))
@@ -79,7 +80,7 @@ Total Solved: 63
 | Difficulty | Count |
 |------------|--------|
 | Easy | 18 |
-| Medium | 35 |
+| Medium | 36 |
 | Hard | 10 |
 
 ---
