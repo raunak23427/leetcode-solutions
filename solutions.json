@@ -843,5 +843,18 @@
     "submissionId": "2135267812",
     "timestamp": "1788880488",
     "path": "Medium/0560_Subarray_Sum_Equals_K.cpp"
+  },
+  {
+    "problemId": "1694",
+    "problemTitle": "Make Sum Divisible by P",
+    "problemSlug": "make-sum-divisible-by-p",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "67 ms",
+    "memory": "87.7 MB",
+    "submissionId": "2135268227",
+    "timestamp": "1788880508",
+    "path": "Medium/1694_Make_Sum_Divisible_by_P.cpp"
   }
 ]
