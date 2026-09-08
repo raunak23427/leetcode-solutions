@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 64
+Total Solved: 65
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 64
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
 - Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
+- Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
@@ -80,7 +81,7 @@ Total Solved: 64
 | Difficulty | Count |
 |------------|--------|
 | Easy | 18 |
-| Medium | 36 |
+| Medium | 37 |
 | Hard | 10 |
 
 ---
