@@ -838,10 +838,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "32 ms",
-    "memory": "45.6 MB",
-    "submissionId": "2135266485",
-    "timestamp": "1788880420",
+    "runtime": "42 ms",
+    "memory": "45.3 MB",
+    "submissionId": "2135267373",
+    "timestamp": "1788880464",
     "path": "Medium/0560_Subarray_Sum_Equals_K.cpp"
   }
 ]
