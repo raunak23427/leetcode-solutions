@@ -3,8 +3,8 @@
  * Problem ID: 1694
  * Difficulty: Medium
  * Language: C++
- * Runtime: 81 ms
- * Memory: 87.8 MB
+ * Runtime: 67 ms
+ * Memory: 87.7 MB
  * Synced From: LeetCode
  * Date: 2026-09-08
  */
