@@ -856,5 +856,18 @@
     "submissionId": "2135268687",
     "timestamp": "1788880531",
     "path": "Medium/1694_Make_Sum_Divisible_by_P.cpp"
+  },
+  {
+    "problemId": "4245",
+    "problemTitle": "Count Commas in Range",
+    "problemSlug": "count-commas-in-range",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "submissionId": "2135277148",
+    "timestamp": "1788880977",
+    "path": "Easy/4245_Count_Commas_in_Range.cpp"
   }
 ]
