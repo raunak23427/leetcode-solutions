@@ -851,10 +851,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "81 ms",
-    "memory": "87.8 MB",
-    "submissionId": "2135268362",
-    "timestamp": "1788880514",
+    "runtime": "67 ms",
+    "memory": "87.7 MB",
+    "submissionId": "2135268687",
+    "timestamp": "1788880531",
     "path": "Medium/1694_Make_Sum_Divisible_by_P.cpp"
   }
 ]
