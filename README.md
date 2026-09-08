@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 66
+Total Solved: 67
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 66
 - Check Divisibility by Digit Sum and Product ([C++](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Smallest Missing Multiple of K ([C++](Easy/4080_Smallest_Missing_Multiple_of_K.cpp))
+- Count Commas in Range ([C++](Easy/4245_Count_Commas_in_Range.cpp))
 
 ## Medium
 
@@ -81,7 +82,7 @@ Total Solved: 66
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 18 |
+| Easy | 19 |
 | Medium | 38 |
 | Hard | 10 |
 
