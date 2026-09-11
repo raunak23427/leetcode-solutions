@@ -3,10 +3,10 @@
  * Problem ID: 560
  * Difficulty: Medium
  * Language: C++
- * Runtime: 36 ms
- * Memory: 45.4 MB
+ * Runtime: 43 ms
+ * Memory: 45.6 MB
  * Synced From: LeetCode
- * Date: 2026-09-08
+ * Date: 2026-09-11
  */
 
 class Solution {
