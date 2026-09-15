@@ -3,29 +3,30 @@
  * Problem ID: 560
  * Difficulty: Medium
  * Language: C++
- * Runtime: 44 ms
- * Memory: 45.5 MB
+ * Runtime: 2531 ms
+ * Memory: 34.2 MB
  * Synced From: LeetCode
- * Date: 2026-09-11
+ * Date: 2026-09-15
  */
 
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
-        mp[0] = 1;
-
-        int sum = 0, ans = 0;
-
-        for (int x : nums) {
-            sum += x;
-
-            if (mp.find(sum - k) != mp.end())
-                ans += mp[sum - k];
-
-            mp[sum]++;
+        int total=0;
+        int n=nums.size();
+       for(int i=0;i<n;i++){
+        int sum =0;
+        for(int j=i;j<n;j++){
+            sum+=nums[j];
+             if(sum==k){
+            total+=1;
         }
 
-        return ans;
+        }
+       
+       }
+       return total;
+
+        
     }
 };
