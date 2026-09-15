@@ -3,8 +3,8 @@
  * Problem ID: 560
  * Difficulty: Medium
  * Language: C++
- * Runtime: 2531 ms
- * Memory: 34.2 MB
+ * Runtime: 36 ms
+ * Memory: 45.5 MB
  * Synced From: LeetCode
  * Date: 2026-09-15
  */
@@ -12,21 +12,24 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int total=0;
-        int n=nums.size();
-       for(int i=0;i<n;i++){
-        int sum =0;
-        for(int j=i;j<n;j++){
-            sum+=nums[j];
-             if(sum==k){
-            total+=1;
+        unordered_map<int,int> m;
+        m[0]=1;
+        int total = 0;
+        int prefixsum=0;
+        for(int i=0;i<nums.size();i++){
+            prefixsum+=nums[i];
+            if(m.count(prefixsum-k)){
+                total+=m[prefixsum-k];
+                m[prefixsum]++;
+            }
+            else if(m.count(prefixsum)){
+               
+                m[prefixsum]++;
+            }
+            else{
+                m[prefixsum]=1;
+            }
         }
-
-        }
-       
-       }
-       return total;
-
-        
+        return total;
     }
 };
