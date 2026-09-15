@@ -3,8 +3,8 @@
  * Problem ID: 560
  * Difficulty: Medium
  * Language: C++
- * Runtime: 36 ms
- * Memory: 45.5 MB
+ * Runtime: 32 ms
+ * Memory: 45.6 MB
  * Synced From: LeetCode
  * Date: 2026-09-15
  */
@@ -22,12 +22,9 @@ public:
                 total+=m[prefixsum-k];
                 m[prefixsum]++;
             }
-            else if(m.count(prefixsum)){
-               
-                m[prefixsum]++;
-            }
+            
             else{
-                m[prefixsum]=1;
+                m[prefixsum]++;
             }
         }
         return total;
