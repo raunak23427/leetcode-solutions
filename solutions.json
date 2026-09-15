@@ -882,5 +882,18 @@
     "submissionId": "2142613263",
     "timestamp": "1789478161",
     "path": "Medium/1016_Subarray_Sums_Divisible_by_K.cpp"
+  },
+  {
+    "problemId": "713",
+    "problemTitle": "Subarray Product Less Than K",
+    "problemSlug": "subarray-product-less-than-k",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "45 MB",
+    "submissionId": "2142737983",
+    "timestamp": "1789485615",
+    "path": "Medium/0713_Subarray_Product_Less_Than_K.cpp"
   }
 ]
