@@ -869,5 +869,18 @@
     "submissionId": "2135277148",
     "timestamp": "1788880977",
     "path": "Easy/4245_Count_Commas_in_Range.cpp"
+  },
+  {
+    "problemId": "1016",
+    "problemTitle": "Subarray Sums Divisible by K",
+    "problemSlug": "subarray-sums-divisible-by-k",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "16 ms",
+    "memory": "35.7 MB",
+    "submissionId": "2142609282",
+    "timestamp": "1789477901",
+    "path": "Medium/1016_Subarray_Sums_Divisible_by_K.cpp"
   }
 ]
