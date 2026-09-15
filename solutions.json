@@ -877,10 +877,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "16 ms",
+    "runtime": "13 ms",
     "memory": "35.7 MB",
-    "submissionId": "2142609282",
-    "timestamp": "1789477901",
+    "submissionId": "2142613263",
+    "timestamp": "1789478161",
     "path": "Medium/1016_Subarray_Sums_Divisible_by_K.cpp"
   }
 ]
