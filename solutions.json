@@ -895,5 +895,18 @@
     "submissionId": "2142737983",
     "timestamp": "1789485615",
     "path": "Medium/0713_Subarray_Product_Less_Than_K.cpp"
+  },
+  {
+    "problemId": "209",
+    "problemTitle": "Minimum Size Subarray Sum",
+    "problemSlug": "minimum-size-subarray-sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "42 MB",
+    "submissionId": "2143377525",
+    "timestamp": "1789541098",
+    "path": "Medium/0209_Minimum_Size_Subarray_Sum.cpp"
   }
 ]
