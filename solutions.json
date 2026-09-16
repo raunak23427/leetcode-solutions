@@ -908,5 +908,18 @@
     "submissionId": "2143377525",
     "timestamp": "1789541098",
     "path": "Medium/0209_Minimum_Size_Subarray_Sum.cpp"
+  },
+  {
+    "problemId": "76",
+    "problemTitle": "Minimum Window Substring",
+    "problemSlug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "9 ms",
+    "memory": "11.5 MB",
+    "submissionId": "2143609801",
+    "timestamp": "1789559603",
+    "path": "Hard/0076_Minimum_Window_Substring.cpp"
   }
 ]
