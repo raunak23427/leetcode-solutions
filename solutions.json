@@ -916,10 +916,10 @@
     "difficulty": "Hard",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "9 ms",
+    "runtime": "6 ms",
     "memory": "11.5 MB",
-    "submissionId": "2143609801",
-    "timestamp": "1789559603",
+    "submissionId": "2143609946",
+    "timestamp": "1789559617",
     "path": "Hard/0076_Minimum_Window_Substring.cpp"
   }
 ]
