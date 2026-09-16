@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 71
+Total Solved: 72
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 71
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Make Lexicographically Smallest Array by Swapping Elements ([C++](Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp))
+- Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
 - Minimum Number of Pushes to Type Word II ([C++](Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp))
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Smallest Palindromic Rearrangement I ([C++](Medium/3812_Smallest_Palindromic_Rearrangement_I.cpp))
@@ -87,7 +88,7 @@ Total Solved: 71
 | Difficulty | Count |
 |------------|--------|
 | Easy | 19 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 11 |
 
 ---
