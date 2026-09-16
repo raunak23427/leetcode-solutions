@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 70
+Total Solved: 71
 
 ## Easy
 
@@ -72,6 +72,7 @@ Total Solved: 70
 
 - Merge k Sorted Lists ([C++](Hard/0023_Merge_k_Sorted_Lists.cpp))
 - Wildcard Matching ([C++](Hard/0044_Wildcard_Matching.cpp))
+- Minimum Window Substring ([C++](Hard/0076_Minimum_Window_Substring.cpp))
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Binary Tree Maximum Path Sum ([C++](Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
 - Find Median from Data Stream ([C++](Hard/0295_Find_Median_from_Data_Stream.cpp))
@@ -87,7 +88,7 @@ Total Solved: 70
 |------------|--------|
 | Easy | 19 |
 | Medium | 41 |
-| Hard | 10 |
+| Hard | 11 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
