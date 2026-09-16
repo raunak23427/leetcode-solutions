@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 72
+Total Solved: 73
 
 ## Easy
 
@@ -59,6 +59,7 @@ Total Solved: 72
 - Make Sum Divisible by P ([C++](Medium/1694_Make_Sum_Divisible_by_P.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
+- Count Subarrays Where Max Element Appears at Least K Times ([C++](Medium/3213_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.cpp))
 - Make Lexicographically Smallest Array by Swapping Elements ([C++](Medium/3219_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp))
 - Length of Longest Subarray With at Most K Frequency ([C++](Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp))
 - Minimum Number of Pushes to Type Word II ([C++](Medium/3276_Minimum_Number_of_Pushes_to_Type_Word_II.cpp))
@@ -88,7 +89,7 @@ Total Solved: 72
 | Difficulty | Count |
 |------------|--------|
 | Easy | 19 |
-| Medium | 42 |
+| Medium | 43 |
 | Hard | 11 |
 
 ---
