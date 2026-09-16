@@ -921,5 +921,18 @@
     "submissionId": "2143610464",
     "timestamp": "1789559663",
     "path": "Hard/0076_Minimum_Window_Substring.cpp"
+  },
+  {
+    "problemId": "3225",
+    "problemTitle": "Length of Longest Subarray With at Most K Frequency",
+    "problemSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "71 ms",
+    "memory": "149.3 MB",
+    "submissionId": "2143772880",
+    "timestamp": "1789570712",
+    "path": "Medium/3225_Length_of_Longest_Subarray_With_at_Most_K_Frequency.cpp"
   }
 ]
