@@ -3,7 +3,7 @@
  * Problem ID: 76
  * Difficulty: Hard
  * Language: C++
- * Runtime: 6 ms
+ * Runtime: 7 ms
  * Memory: 11.5 MB
  * Synced From: LeetCode
  * Date: 2026-09-16
