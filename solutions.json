@@ -955,10 +955,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "88.9 MB",
-    "submissionId": "2145124481",
-    "timestamp": "1789673691",
+    "runtime": "11 ms",
+    "memory": "88.8 MB",
+    "submissionId": "2145124717",
+    "timestamp": "1789673713",
     "path": "Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp"
   }
 ]
