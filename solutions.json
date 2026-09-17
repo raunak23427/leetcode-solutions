@@ -947,5 +947,18 @@
     "submissionId": "2143829364",
     "timestamp": "1789574126",
     "path": "Medium/3213_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.cpp"
+  },
+  {
+    "problemId": "1573",
+    "problemTitle": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "problemSlug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "88.9 MB",
+    "submissionId": "2145124408",
+    "timestamp": "1789673685",
+    "path": "Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp"
   }
 ]
