@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 73
+Total Solved: 74
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 73
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
+- Find Two Non-overlapping Sub-arrays Each With Target Sum ([C++](Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp))
 - Make Sum Divisible by P ([C++](Medium/1694_Make_Sum_Divisible_by_P.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
@@ -89,7 +90,7 @@ Total Solved: 73
 | Difficulty | Count |
 |------------|--------|
 | Easy | 19 |
-| Medium | 43 |
+| Medium | 44 |
 | Hard | 11 |
 
 ---
