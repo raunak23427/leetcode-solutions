@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 74
+Total Solved: 75
 
 ## Easy
 
 - Maximum Depth of Binary Tree ([C++](Easy/0104_Maximum_Depth_of_Binary_Tree.cpp))
 - Convert Sorted Array to Binary Search Tree ([C++](Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
 - Count Complete Tree Nodes ([C++](Easy/0222_Count_Complete_Tree_Nodes.cpp))
+- Perfect Number ([C++](Easy/0507_Perfect_Number.cpp))
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Minimum Distance Between BST Nodes ([C++](Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp))
 - Range Sum of BST ([C++](Easy/0975_Range_Sum_of_BST.cpp))
@@ -89,7 +90,7 @@ Total Solved: 74
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 44 |
 | Hard | 11 |
 
