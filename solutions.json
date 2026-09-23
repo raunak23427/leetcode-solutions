@@ -960,5 +960,18 @@
     "submissionId": "2145124717",
     "timestamp": "1789673713",
     "path": "Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp"
+  },
+  {
+    "problemId": "507",
+    "problemTitle": "Perfect Number",
+    "problemSlug": "perfect-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2082 ms",
+    "memory": "7.7 MB",
+    "submissionId": "2150798874",
+    "timestamp": "1790161481",
+    "path": "Easy/0507_Perfect_Number.cpp"
   }
 ]
