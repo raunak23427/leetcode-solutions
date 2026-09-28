@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 75
+Total Solved: 76
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 75
 - Last Stone Weight ([C++](Easy/1127_Last_Stone_Weight.cpp))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
+- Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Take Gifts From the Richest Pile ([C++](Easy/2692_Take_Gifts_From_the_Richest_Pile.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
@@ -90,7 +91,7 @@ Total Solved: 75
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 44 |
 | Hard | 11 |
 
