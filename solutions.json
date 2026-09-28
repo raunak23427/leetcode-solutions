@@ -973,5 +973,18 @@
     "submissionId": "2150799011",
     "timestamp": "1790161493",
     "path": "Easy/0507_Perfect_Number.cpp"
+  },
+  {
+    "problemId": "1737",
+    "problemTitle": "Maximum Nesting Depth of the Parentheses",
+    "problemSlug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "submissionId": "2156378432",
+    "timestamp": "1790621688",
+    "path": "Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp"
   }
 ]
