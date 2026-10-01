@@ -986,5 +986,18 @@
     "submissionId": "2156378432",
     "timestamp": "1790621688",
     "path": "Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp"
+  },
+  {
+    "problemId": "16",
+    "problemTitle": "3Sum Closest",
+    "problemSlug": "3sum-closest",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "8 ms",
+    "memory": "14 MB",
+    "submissionId": "2158923636",
+    "timestamp": "1790837121",
+    "path": "Medium/0016_3Sum_Closest.cpp"
   }
 ]
