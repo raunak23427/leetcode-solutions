@@ -1012,5 +1012,18 @@
     "submissionId": "2158923972",
     "timestamp": "1790837143",
     "path": "Easy/0020_Valid_Parentheses.cpp"
+  },
+  {
+    "problemId": "1776",
+    "problemTitle": "Minimum Operations to Reduce X to Zero",
+    "problemSlug": "minimum-operations-to-reduce-x-to-zero",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "102.2 MB",
+    "submissionId": "2158924907",
+    "timestamp": "1790837199",
+    "path": "Medium/1776_Minimum_Operations_to_Reduce_X_to_Zero.cpp"
   }
 ]
