@@ -1025,5 +1025,18 @@
     "submissionId": "2158924907",
     "timestamp": "1790837199",
     "path": "Medium/1776_Minimum_Operations_to_Reduce_X_to_Zero.cpp"
+  },
+  {
+    "problemId": "1934",
+    "problemTitle": "Evaluate the Bracket Pairs of a String",
+    "problemSlug": "evaluate-the-bracket-pairs-of-a-string",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "81 ms",
+    "memory": "122.7 MB",
+    "submissionId": "2158925771",
+    "timestamp": "1790837250",
+    "path": "Medium/1934_Evaluate_the_Bracket_Pairs_of_a_String.cpp"
   }
 ]
