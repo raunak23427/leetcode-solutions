@@ -999,5 +999,18 @@
     "submissionId": "2158923636",
     "timestamp": "1790837121",
     "path": "Medium/0016_3Sum_Closest.cpp"
+  },
+  {
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "submissionId": "2158923972",
+    "timestamp": "1790837143",
+    "path": "Easy/0020_Valid_Parentheses.cpp"
   }
 ]
