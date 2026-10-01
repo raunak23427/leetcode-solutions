@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 77
+Total Solved: 78
 
 ## Easy
 
+- Valid Parentheses ([C++](Easy/0020_Valid_Parentheses.cpp))
 - Maximum Depth of Binary Tree ([C++](Easy/0104_Maximum_Depth_of_Binary_Tree.cpp))
 - Convert Sorted Array to Binary Search Tree ([C++](Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
 - Count Complete Tree Nodes ([C++](Easy/0222_Count_Complete_Tree_Nodes.cpp))
@@ -92,7 +93,7 @@ Total Solved: 77
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 45 |
 | Hard | 11 |
 
