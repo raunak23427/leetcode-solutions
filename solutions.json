@@ -1033,10 +1033,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "68 ms",
-    "memory": "122.9 MB",
-    "submissionId": "2158925853",
-    "timestamp": "1790837256",
+    "runtime": "86 ms",
+    "memory": "122.7 MB",
+    "submissionId": "2158925966",
+    "timestamp": "1790837262",
     "path": "Medium/1934_Evaluate_the_Bracket_Pairs_of_a_String.cpp"
   }
 ]
