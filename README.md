@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 79
+Total Solved: 80
 
 ## Easy
 
@@ -63,6 +63,7 @@ Total Solved: 79
 - Find Two Non-overlapping Sub-arrays Each With Target Sum ([C++](Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp))
 - Make Sum Divisible by P ([C++](Medium/1694_Make_Sum_Divisible_by_P.cpp))
 - Minimum Operations to Reduce X to Zero ([C++](Medium/1776_Minimum_Operations_to_Reduce_X_to_Zero.cpp))
+- Evaluate the Bracket Pairs of a String ([C++](Medium/1934_Evaluate_the_Bracket_Pairs_of_a_String.cpp))
 - Sum Game ([C++](Medium/2039_Sum_Game.cpp))
 - Amount of Time for Binary Tree to Be Infected ([C++](Medium/2461_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp))
 - Count Subarrays Where Max Element Appears at Least K Times ([C++](Medium/3213_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.cpp))
@@ -95,7 +96,7 @@ Total Solved: 79
 | Difficulty | Count |
 |------------|--------|
 | Easy | 22 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 11 |
 
 ---
