@@ -1051,5 +1051,18 @@
     "submissionId": "2160216288",
     "timestamp": "1790950393",
     "path": "Medium/1182_Game_Play_Analysis_IV.sql"
+  },
+  {
+    "problemId": "1179",
+    "problemTitle": "Game Play Analysis I",
+    "problemSlug": "game-play-analysis-i",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "515 ms",
+    "memory": "0B",
+    "submissionId": "2160216493",
+    "timestamp": "1790950407",
+    "path": "Easy/1179_Game_Play_Analysis_I.sql"
   }
 ]
