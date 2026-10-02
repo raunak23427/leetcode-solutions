@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 81
+Total Solved: 82
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 81
 - Range Sum of BST ([C++](Easy/0975_Range_Sum_of_BST.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 - Last Stone Weight ([C++](Easy/1127_Last_Stone_Weight.cpp))
+- Game Play Analysis I ([MySQL](Easy/1179_Game_Play_Analysis_I.sql))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
@@ -96,7 +97,7 @@ Total Solved: 81
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 48 |
 | Hard | 11 |
 
