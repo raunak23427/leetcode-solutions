@@ -1038,5 +1038,18 @@
     "submissionId": "2158926312",
     "timestamp": "1790837283",
     "path": "Medium/1934_Evaluate_the_Bracket_Pairs_of_a_String.cpp"
+  },
+  {
+    "problemId": "1182",
+    "problemTitle": "Game Play Analysis IV",
+    "problemSlug": "game-play-analysis-iv",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "524 ms",
+    "memory": "0B",
+    "submissionId": "2160216042",
+    "timestamp": "1790950376",
+    "path": "Medium/1182_Game_Play_Analysis_IV.sql"
   }
 ]
