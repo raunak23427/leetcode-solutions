@@ -1046,10 +1046,10 @@
     "difficulty": "Medium",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "524 ms",
+    "runtime": "626 ms",
     "memory": "0B",
-    "submissionId": "2160216042",
-    "timestamp": "1790950376",
+    "submissionId": "2160216288",
+    "timestamp": "1790950393",
     "path": "Medium/1182_Game_Play_Analysis_IV.sql"
   }
 ]
