@@ -1064,5 +1064,18 @@
     "submissionId": "2160216493",
     "timestamp": "1790950407",
     "path": "Easy/1179_Game_Play_Analysis_I.sql"
+  },
+  {
+    "problemId": "102",
+    "problemTitle": "Binary Tree Level Order Traversal",
+    "problemSlug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.2 MB",
+    "submissionId": "2160977140",
+    "timestamp": "1791023684",
+    "path": "Medium/0102_Binary_Tree_Level_Order_Traversal.cpp"
   }
 ]
