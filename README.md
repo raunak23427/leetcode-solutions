@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 83
+Total Solved: 84
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 83
 - Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
 - Subarray Product Less Than K ([C++](Medium/0713_Subarray_Product_Less_Than_K.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
+- Keys and Rooms ([C++](Medium/0871_Keys_and_Rooms.cpp))
 - Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
 - Subarray Sums Divisible by K ([C++](Medium/1016_Subarray_Sums_Divisible_by_K.cpp))
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
@@ -99,7 +100,7 @@ Total Solved: 83
 | Difficulty | Count |
 |------------|--------|
 | Easy | 23 |
-| Medium | 49 |
+| Medium | 50 |
 | Hard | 11 |
 
 ---
