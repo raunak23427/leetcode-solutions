@@ -1103,5 +1103,18 @@
     "submissionId": "2162161879",
     "timestamp": "1791122212",
     "path": "Medium/0178_Rank_Scores.sql"
+  },
+  {
+    "problemId": "185",
+    "problemTitle": "Department Top Three Salaries",
+    "problemSlug": "department-top-three-salaries",
+    "difficulty": "Hard",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "1596 ms",
+    "memory": "0B",
+    "submissionId": "2162181569",
+    "timestamp": "1791123443",
+    "path": "Hard/0185_Department_Top_Three_Salaries.sql"
   }
 ]
