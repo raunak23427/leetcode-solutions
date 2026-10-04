@@ -1129,5 +1129,18 @@
     "submissionId": "2162181848",
     "timestamp": "1791123464",
     "path": "Medium/0626_Exchange_Seats.sql"
+  },
+  {
+    "problemId": "1135",
+    "problemTitle": "Customers Who Bought All Products",
+    "problemSlug": "customers-who-bought-all-products",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "635 ms",
+    "memory": "0B",
+    "submissionId": "2162183484",
+    "timestamp": "1791123562",
+    "path": "Medium/1135_Customers_Who_Bought_All_Products.sql"
   }
 ]
