@@ -1053,6 +1053,19 @@
     "path": "Medium/0102_Binary_Tree_Level_Order_Traversal.cpp"
   },
   {
+    "problemId": "871",
+    "problemTitle": "Keys and Rooms",
+    "problemSlug": "keys-and-rooms",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.7 MB",
+    "submissionId": "2161206760",
+    "timestamp": "1791041374",
+    "path": "Medium/0871_Keys_and_Rooms.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1079,16 +1092,16 @@
     "path": "Easy/1179_Game_Play_Analysis_I.sql"
   },
   {
-    "problemId": "871",
-    "problemTitle": "Keys and Rooms",
-    "problemSlug": "keys-and-rooms",
+    "problemId": "178",
+    "problemTitle": "Rank Scores",
+    "problemSlug": "rank-scores",
     "difficulty": "Medium",
-    "language": "C++",
-    "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "14.7 MB",
-    "submissionId": "2161206760",
-    "timestamp": "1791041374",
-    "path": "Medium/0871_Keys_and_Rooms.cpp"
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "297 ms",
+    "memory": "0B",
+    "submissionId": "2162161776",
+    "timestamp": "1791122204",
+    "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
