@@ -1098,10 +1098,10 @@
     "difficulty": "Medium",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "297 ms",
+    "runtime": "293 ms",
     "memory": "0B",
-    "submissionId": "2162161776",
-    "timestamp": "1791122204",
+    "submissionId": "2162161879",
+    "timestamp": "1791122212",
     "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
