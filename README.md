@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 84
+Total Solved: 85
 
 ## Easy
 
@@ -46,6 +46,7 @@ Total Solved: 84
 - Binary Tree Level Order Traversal ([C++](Medium/0102_Binary_Tree_Level_Order_Traversal.cpp))
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
+- Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
 - Minimum Size Subarray Sum ([C++](Medium/0209_Minimum_Size_Subarray_Sum.cpp))
 - Kth Largest Element in an Array ([C++](Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
@@ -100,7 +101,7 @@ Total Solved: 84
 | Difficulty | Count |
 |------------|--------|
 | Easy | 23 |
-| Medium | 50 |
+| Medium | 51 |
 | Hard | 11 |
 
 ---
