@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 85
+Total Solved: 86
 
 ## Easy
 
@@ -89,6 +89,7 @@ Total Solved: 85
 - Minimum Window Substring ([C++](Hard/0076_Minimum_Window_Substring.cpp))
 - Distinct Subsequences ([C++](Hard/0115_Distinct_Subsequences.cpp))
 - Binary Tree Maximum Path Sum ([C++](Hard/0124_Binary_Tree_Maximum_Path_Sum.cpp))
+- Department Top Three Salaries ([MySQL](Hard/0185_Department_Top_Three_Salaries.sql))
 - Find Median from Data Stream ([C++](Hard/0295_Find_Median_from_Data_Stream.cpp))
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
@@ -102,7 +103,7 @@ Total Solved: 85
 |------------|--------|
 | Easy | 23 |
 | Medium | 51 |
-| Hard | 11 |
+| Hard | 12 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
