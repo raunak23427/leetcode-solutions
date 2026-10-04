@@ -2,7 +2,7 @@
 -- Problem ID: 1135
 -- Difficulty: Medium
 -- Language: MySQL
--- Runtime: 616 ms
+-- Runtime: 631 ms
 -- Memory: 0B
 -- Synced From: LeetCode
 -- Date: 2026-10-04
