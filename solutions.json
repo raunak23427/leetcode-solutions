@@ -1116,5 +1116,18 @@
     "submissionId": "2162181569",
     "timestamp": "1791123443",
     "path": "Hard/0185_Department_Top_Three_Salaries.sql"
+  },
+  {
+    "problemId": "626",
+    "problemTitle": "Exchange Seats",
+    "problemSlug": "exchange-seats",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "335 ms",
+    "memory": "0B",
+    "submissionId": "2162181848",
+    "timestamp": "1791123464",
+    "path": "Medium/0626_Exchange_Seats.sql"
   }
 ]
