@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 86
+Total Solved: 87
 
 ## Easy
 
@@ -55,6 +55,7 @@ Total Solved: 86
 - Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
+- Exchange Seats ([MySQL](Medium/0626_Exchange_Seats.sql))
 - Subarray Product Less Than K ([C++](Medium/0713_Subarray_Product_Less_Than_K.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Keys and Rooms ([C++](Medium/0871_Keys_and_Rooms.cpp))
@@ -102,7 +103,7 @@ Total Solved: 86
 | Difficulty | Count |
 |------------|--------|
 | Easy | 23 |
-| Medium | 51 |
+| Medium | 52 |
 | Hard | 12 |
 
 ---
