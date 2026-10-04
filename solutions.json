@@ -1137,10 +1137,10 @@
     "difficulty": "Medium",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "635 ms",
+    "runtime": "616 ms",
     "memory": "0B",
-    "submissionId": "2162183484",
-    "timestamp": "1791123562",
+    "submissionId": "2162183631",
+    "timestamp": "1791123572",
     "path": "Medium/1135_Customers_Who_Bought_All_Products.sql"
   }
 ]
