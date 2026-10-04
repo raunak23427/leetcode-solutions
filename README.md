@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 87
+Total Solved: 88
 
 ## Easy
 
@@ -62,6 +62,7 @@ Total Solved: 87
 - Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
 - Subarray Sums Divisible by K ([C++](Medium/1016_Subarray_Sums_Divisible_by_K.cpp))
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
+- Customers Who Bought All Products ([MySQL](Medium/1135_Customers_Who_Bought_All_Products.sql))
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Game Play Analysis IV ([MySQL](Medium/1182_Game_Play_Analysis_IV.sql))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
@@ -103,7 +104,7 @@ Total Solved: 87
 | Difficulty | Count |
 |------------|--------|
 | Easy | 23 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 12 |
 
 ---
