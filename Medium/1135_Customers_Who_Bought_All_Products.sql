@@ -2,10 +2,10 @@
 -- Problem ID: 1135
 -- Difficulty: Medium
 -- Language: MySQL
--- Runtime: 526 ms
+-- Runtime: 568 ms
 -- Memory: 0B
 -- Synced From: LeetCode
--- Date: 2026-10-04
+-- Date: 2026-10-05
 
 SELECT customer_id
 FROM Customer
