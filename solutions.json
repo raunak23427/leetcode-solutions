@@ -1142,5 +1142,18 @@
     "submissionId": "2163297030",
     "timestamp": "1791215228",
     "path": "Medium/1135_Customers_Who_Bought_All_Products.sql"
+  },
+  {
+    "problemId": "1128",
+    "problemTitle": "Remove All Adjacent Duplicates In String",
+    "problemSlug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "14.4 MB",
+    "submissionId": "2164084564",
+    "timestamp": "1791279854",
+    "path": "Easy/1128_Remove_All_Adjacent_Duplicates_In_String.cpp"
   }
 ]
