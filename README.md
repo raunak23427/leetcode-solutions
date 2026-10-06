@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 88
+Total Solved: 89
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 88
 - Range Sum of BST ([C++](Easy/0975_Range_Sum_of_BST.cpp))
 - Cousins in Binary Tree ([C++](Easy/1035_Cousins_in_Binary_Tree.cpp))
 - Last Stone Weight ([C++](Easy/1127_Last_Stone_Weight.cpp))
+- Remove All Adjacent Duplicates In String ([C++](Easy/1128_Remove_All_Adjacent_Duplicates_In_String.cpp))
 - Game Play Analysis I ([MySQL](Easy/1179_Game_Play_Analysis_I.sql))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
@@ -103,7 +104,7 @@ Total Solved: 88
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 23 |
+| Easy | 24 |
 | Medium | 53 |
 | Hard | 12 |
 
