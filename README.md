@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 89
+Total Solved: 90
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 89
 - Longest Palindromic Substring ([C++](Medium/0005_Longest_Palindromic_Substring.cpp))
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
 - String to Integer (atoi) ([C++](Medium/0008_String_to_Integer_atoi.cpp))
+- Container With Most Water ([C++](Medium/0011_Container_With_Most_Water.cpp))
 - 3Sum ([C++](Medium/0015_3Sum.cpp))
 - 3Sum Closest ([C++](Medium/0016_3Sum_Closest.cpp))
 - 4Sum ([C++](Medium/0018_4Sum.cpp))
@@ -105,7 +106,7 @@ Total Solved: 89
 | Difficulty | Count |
 |------------|--------|
 | Easy | 24 |
-| Medium | 53 |
+| Medium | 54 |
 | Hard | 12 |
 
 ---
