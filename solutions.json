@@ -1066,6 +1066,19 @@
     "path": "Medium/0871_Keys_and_Rooms.cpp"
   },
   {
+    "problemId": "1128",
+    "problemTitle": "Remove All Adjacent Duplicates In String",
+    "problemSlug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "14.4 MB",
+    "submissionId": "2164084564",
+    "timestamp": "1791279854",
+    "path": "Easy/1128_Remove_All_Adjacent_Duplicates_In_String.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1144,16 +1157,16 @@
     "path": "Medium/1135_Customers_Who_Bought_All_Products.sql"
   },
   {
-    "problemId": "1128",
-    "problemTitle": "Remove All Adjacent Duplicates In String",
-    "problemSlug": "remove-all-adjacent-duplicates-in-string",
-    "difficulty": "Easy",
+    "problemId": "11",
+    "problemTitle": "Container With Most Water",
+    "problemSlug": "container-with-most-water",
+    "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "1 ms",
-    "memory": "14.4 MB",
-    "submissionId": "2164084564",
-    "timestamp": "1791279854",
-    "path": "Easy/1128_Remove_All_Adjacent_Duplicates_In_String.cpp"
+    "runtime": "7 ms",
+    "memory": "63 MB",
+    "submissionId": "2166245187",
+    "timestamp": "1791457210",
+    "path": "Medium/0011_Container_With_Most_Water.cpp"
   }
 ]
