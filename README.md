@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 91
+Total Solved: 92
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 91
 - Remove All Adjacent Duplicates In String ([C++](Easy/1128_Remove_All_Adjacent_Duplicates_In_String.cpp))
 - Game Play Analysis I ([MySQL](Easy/1179_Game_Play_Analysis_I.sql))
 - Shift 2D Grid ([C++](Easy/1386_Shift_2D_Grid.cpp))
+- Replace Employee ID With The Unique Identifier ([MySQL](Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql))
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
@@ -106,7 +107,7 @@ Total Solved: 91
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 55 |
 | Hard | 12 |
 
