@@ -1189,10 +1189,10 @@
     "difficulty": "Easy",
     "language": "MySQL",
     "extension": "sql",
-    "runtime": "1446 ms",
+    "runtime": "2106 ms",
     "memory": "0B",
-    "submissionId": "2167552339",
-    "timestamp": "1791568364",
+    "submissionId": "2167552538",
+    "timestamp": "1791568375",
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   }
 ]
