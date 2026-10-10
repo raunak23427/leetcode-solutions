@@ -1020,10 +1020,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "2 ms",
-    "memory": "102.2 MB",
-    "submissionId": "2158924907",
-    "timestamp": "1790837199",
+    "runtime": "4 ms",
+    "memory": "102.3 MB",
+    "submissionId": "2168405344",
+    "timestamp": "1791648333",
     "path": "Medium/1776_Minimum_Operations_to_Reduce_X_to_Zero.cpp"
   },
   {
