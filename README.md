@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 92
+Total Solved: 93
 
 ## Easy
 
@@ -32,6 +32,7 @@ Total Solved: 92
 
 ## Medium
 
+- Add Two Numbers ([C++](Medium/0002_Add_Two_Numbers.cpp))
 - Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Longest Palindromic Substring ([C++](Medium/0005_Longest_Palindromic_Substring.cpp))
 - Zigzag Conversion ([C++](Medium/0006_Zigzag_Conversion.cpp))
@@ -108,7 +109,7 @@ Total Solved: 92
 | Difficulty | Count |
 |------------|--------|
 | Easy | 25 |
-| Medium | 55 |
+| Medium | 56 |
 | Hard | 12 |
 
 ---
