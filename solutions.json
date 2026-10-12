@@ -1194,5 +1194,18 @@
     "submissionId": "2167552538",
     "timestamp": "1791568375",
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
+  },
+  {
+    "problemId": "2",
+    "problemTitle": "Add Two Numbers",
+    "problemSlug": "add-two-numbers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "77.1 MB",
+    "submissionId": "2170218173",
+    "timestamp": "1791812245",
+    "path": "Medium/0002_Add_Two_Numbers.cpp"
   }
 ]
