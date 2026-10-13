@@ -1280,10 +1280,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "87 ms",
-    "memory": "88.9 MB",
-    "submissionId": "2171224730",
-    "timestamp": "1791899351",
+    "runtime": "89 ms",
+    "memory": "89.1 MB",
+    "submissionId": "2171225576",
+    "timestamp": "1791899404",
     "path": "Medium/0128_Longest_Consecutive_Sequence.cpp"
   }
 ]
