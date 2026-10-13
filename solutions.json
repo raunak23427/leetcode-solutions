@@ -1131,6 +1131,19 @@
     "path": "Medium/0166_Fraction_to_Recurring_Decimal.cpp"
   },
   {
+    "problemId": "91",
+    "problemTitle": "Decode Ways",
+    "problemSlug": "decode-ways",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "8.7 MB",
+    "submissionId": "2171206869",
+    "timestamp": "1791898191",
+    "path": "Medium/0091_Decode_Ways.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1222,16 +1235,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "91",
-    "problemTitle": "Decode Ways",
-    "problemSlug": "decode-ways",
+    "problemId": "96",
+    "problemTitle": "Unique Binary Search Trees",
+    "problemSlug": "unique-binary-search-trees",
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "3 ms",
-    "memory": "8.7 MB",
-    "submissionId": "2171206869",
-    "timestamp": "1791898191",
-    "path": "Medium/0091_Decode_Ways.cpp"
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2171213390",
+    "timestamp": "1791898613",
+    "path": "Medium/0096_Unique_Binary_Search_Trees.cpp"
   }
 ]
