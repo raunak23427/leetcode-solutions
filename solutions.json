@@ -1170,6 +1170,19 @@
     "path": "Easy/0101_Symmetric_Tree.cpp"
   },
   {
+    "problemId": "112",
+    "problemTitle": "Path Sum",
+    "problemSlug": "path-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "21.6 MB",
+    "submissionId": "2171218166",
+    "timestamp": "1791898930",
+    "path": "Easy/0112_Path_Sum.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1261,16 +1274,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "112",
-    "problemTitle": "Path Sum",
-    "problemSlug": "path-sum",
-    "difficulty": "Easy",
+    "problemId": "128",
+    "problemTitle": "Longest Consecutive Sequence",
+    "problemSlug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "21.6 MB",
-    "submissionId": "2171218166",
-    "timestamp": "1791898930",
-    "path": "Easy/0112_Path_Sum.cpp"
+    "runtime": "87 ms",
+    "memory": "88.9 MB",
+    "submissionId": "2171224730",
+    "timestamp": "1791899351",
+    "path": "Medium/0128_Longest_Consecutive_Sequence.cpp"
   }
 ]
