@@ -1144,6 +1144,19 @@
     "path": "Medium/0091_Decode_Ways.cpp"
   },
   {
+    "problemId": "96",
+    "problemTitle": "Unique Binary Search Trees",
+    "problemSlug": "unique-binary-search-trees",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "submissionId": "2171213641",
+    "timestamp": "1791898630",
+    "path": "Medium/0096_Unique_Binary_Search_Trees.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1235,16 +1248,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "96",
-    "problemTitle": "Unique Binary Search Trees",
-    "problemSlug": "unique-binary-search-trees",
-    "difficulty": "Medium",
+    "problemId": "101",
+    "problemTitle": "Symmetric Tree",
+    "problemSlug": "symmetric-tree",
+    "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
     "runtime": "0 ms",
-    "memory": "8.1 MB",
-    "submissionId": "2171213641",
-    "timestamp": "1791898630",
-    "path": "Medium/0096_Unique_Binary_Search_Trees.cpp"
+    "memory": "18.4 MB",
+    "submissionId": "2171215325",
+    "timestamp": "1791898742",
+    "path": "Easy/0101_Symmetric_Tree.cpp"
   }
 ]
