@@ -1293,10 +1293,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "44 ms",
-    "memory": "75.8 MB",
-    "submissionId": "2171230250",
-    "timestamp": "1791899710",
+    "runtime": "48 ms",
+    "memory": "75.7 MB",
+    "submissionId": "2171231129",
+    "timestamp": "1791899767",
     "path": "Medium/0148_Sort_List.cpp"
   }
 ]
