@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 99
+Total Solved: 100
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 99
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
 - Convert Sorted List to Binary Search Tree ([C++](Medium/0109_Convert_Sorted_List_to_Binary_Search_Tree.cpp))
 - Longest Consecutive Sequence ([C++](Medium/0128_Longest_Consecutive_Sequence.cpp))
+- Sort List ([C++](Medium/0148_Sort_List.cpp))
 - Fraction to Recurring Decimal ([C++](Medium/0166_Fraction_to_Recurring_Decimal.cpp))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
@@ -115,7 +116,7 @@ Total Solved: 99
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 60 |
+| Medium | 61 |
 | Hard | 12 |
 
 ---
