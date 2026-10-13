@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 95
+Total Solved: 96
 
 ## Easy
 
@@ -48,6 +48,7 @@ Total Solved: 95
 - Simplify Path ([C++](Medium/0071_Simplify_Path.cpp))
 - Edit Distance ([C++](Medium/0072_Edit_Distance.cpp))
 - Decode Ways ([C++](Medium/0091_Decode_Ways.cpp))
+- Unique Binary Search Trees ([C++](Medium/0096_Unique_Binary_Search_Trees.cpp))
 - Validate Binary Search Tree ([C++](Medium/0098_Validate_Binary_Search_Tree.cpp))
 - Binary Tree Level Order Traversal ([C++](Medium/0102_Binary_Tree_Level_Order_Traversal.cpp))
 - Construct Binary Tree from Preorder and Inorder Traversal ([C++](Medium/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp))
@@ -111,7 +112,7 @@ Total Solved: 95
 | Difficulty | Count |
 |------------|--------|
 | Easy | 25 |
-| Medium | 58 |
+| Medium | 59 |
 | Hard | 12 |
 
 ---
