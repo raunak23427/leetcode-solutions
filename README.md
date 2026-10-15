@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 101
+Total Solved: 102
 
 ## Easy
 
@@ -74,6 +74,7 @@ Total Solved: 101
 - Keys and Rooms ([C++](Medium/0871_Keys_and_Rooms.cpp))
 - Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
 - Subarray Sums Divisible by K ([C++](Medium/1016_Subarray_Sums_Divisible_by_K.cpp))
+- Rotting Oranges ([C++](Medium/1036_Rotting_Oranges.cpp))
 - Construct Binary Search Tree from Preorder Traversal ([C++](Medium/1050_Construct_Binary_Search_Tree_from_Preorder_Traversal.cpp))
 - Customers Who Bought All Products ([MySQL](Medium/1135_Customers_Who_Bought_All_Products.sql))
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
@@ -117,7 +118,7 @@ Total Solved: 101
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 62 |
+| Medium | 63 |
 | Hard | 12 |
 
 ---
