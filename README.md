@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 102
+Total Solved: 103
 
 ## Easy
 
@@ -94,6 +94,7 @@ Total Solved: 102
 - Maximize Active Section with Trade I ([C++](Medium/3805_Maximize_Active_Section_with_Trade_I.cpp))
 - Smallest Palindromic Rearrangement I ([C++](Medium/3812_Smallest_Palindromic_Rearrangement_I.cpp))
 - Number of Unique XOR Triplets I ([C++](Medium/3824_Number_of_Unique_XOR_Triplets_I.cpp))
+- Minimum Swaps to Sort by Digit Sum ([C++](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.cpp))
 - Sum of GCD of Formed Pairs ([C++](Medium/4242_Sum_of_GCD_of_Formed_Pairs.cpp))
 - Construct Uniform Parity Array II ([C++](Medium/4258_Construct_Uniform_Parity_Array_II.cpp))
 - Smallest Stable Index II ([C++](Medium/4285_Smallest_Stable_Index_II.cpp))
@@ -118,7 +119,7 @@ Total Solved: 102
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 63 |
+| Medium | 64 |
 | Hard | 12 |
 
 ---
