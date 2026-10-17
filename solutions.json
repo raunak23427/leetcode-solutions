@@ -1222,6 +1222,19 @@
     "path": "Medium/0143_Reorder_List.cpp"
   },
   {
+    "problemId": "1036",
+    "problemTitle": "Rotting Oranges",
+    "problemSlug": "rotting-oranges",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.4 MB",
+    "submissionId": "2172744056",
+    "timestamp": "1792043551",
+    "path": "Medium/1036_Rotting_Oranges.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1313,16 +1326,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "1036",
-    "problemTitle": "Rotting Oranges",
-    "problemSlug": "rotting-oranges",
+    "problemId": "3847",
+    "problemTitle": "Minimum Swaps to Sort by Digit Sum",
+    "problemSlug": "minimum-swaps-to-sort-by-digit-sum",
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "16.4 MB",
-    "submissionId": "2172744056",
-    "timestamp": "1792043551",
-    "path": "Medium/1036_Rotting_Oranges.cpp"
+    "runtime": "455 ms",
+    "memory": "237.2 MB",
+    "submissionId": "2174668278",
+    "timestamp": "1792250661",
+    "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.cpp"
   }
 ]
