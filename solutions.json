@@ -1345,10 +1345,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "22 ms",
-    "memory": "18.2 MB",
-    "submissionId": "2175188837",
-    "timestamp": "1792307213",
+    "runtime": "28 ms",
+    "memory": "17.9 MB",
+    "submissionId": "2175188958",
+    "timestamp": "1792307224",
     "path": "Medium/0200_Number_of_Islands.cpp"
   }
 ]
