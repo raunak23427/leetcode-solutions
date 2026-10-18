@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 103
+Total Solved: 104
 
 ## Easy
 
@@ -61,6 +61,7 @@ Total Solved: 103
 - Fraction to Recurring Decimal ([C++](Medium/0166_Fraction_to_Recurring_Decimal.cpp))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Binary Tree Right Side View ([C++](Medium/0199_Binary_Tree_Right_Side_View.cpp))
+- Number of Islands ([C++](Medium/0200_Number_of_Islands.cpp))
 - Minimum Size Subarray Sum ([C++](Medium/0209_Minimum_Size_Subarray_Sum.cpp))
 - Kth Largest Element in an Array ([C++](Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
@@ -119,7 +120,7 @@ Total Solved: 103
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 64 |
+| Medium | 65 |
 | Hard | 12 |
 
 ---
