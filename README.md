@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 106
+Total Solved: 107
 
 ## Easy
 
@@ -65,6 +65,7 @@ Total Solved: 106
 - Number of Islands ([C++](Medium/0200_Number_of_Islands.cpp))
 - Course Schedule ([C++](Medium/0207_Course_Schedule.cpp))
 - Minimum Size Subarray Sum ([C++](Medium/0209_Minimum_Size_Subarray_Sum.cpp))
+- Course Schedule II ([C++](Medium/0210_Course_Schedule_II.cpp))
 - Kth Largest Element in an Array ([C++](Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
@@ -122,7 +123,7 @@ Total Solved: 106
 | Difficulty | Count |
 |------------|--------|
 | Easy | 27 |
-| Medium | 67 |
+| Medium | 68 |
 | Hard | 12 |
 
 ---
