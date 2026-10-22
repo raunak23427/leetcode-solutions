@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 107
+Total Solved: 108
 
 ## Easy
 
@@ -115,6 +115,7 @@ Total Solved: 107
 - Vertical Order Traversal of a Binary Tree ([C++](Hard/1029_Vertical_Order_Traversal_of_a_Binary_Tree.cpp))
 - Stone Game III ([C++](Hard/1522_Stone_Game_III.cpp))
 - Stone Game VIII ([C++](Hard/2002_Stone_Game_VIII.cpp))
+- Parallel Courses III ([C++](Hard/2176_Parallel_Courses_III.cpp))
 - Sorted GCD Pair Queries ([C++](Hard/3583_Sorted_GCD_Pair_Queries.cpp))
 - Maximize Active Section with Trade II ([C++](Hard/3804_Maximize_Active_Section_with_Trade_II.cpp))
 
@@ -124,7 +125,7 @@ Total Solved: 107
 |------------|--------|
 | Easy | 27 |
 | Medium | 68 |
-| Hard | 12 |
+| Hard | 13 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
