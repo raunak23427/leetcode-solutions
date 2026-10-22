@@ -1384,10 +1384,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "4 ms",
+    "runtime": "0 ms",
     "memory": "17.5 MB",
-    "submissionId": "2178587449",
-    "timestamp": "1792651320",
+    "submissionId": "2178587544",
+    "timestamp": "1792651325",
     "path": "Medium/0210_Course_Schedule_II.cpp"
   }
 ]
