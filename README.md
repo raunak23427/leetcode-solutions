@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 108
+Total Solved: 109
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 108
 - Maximum Product of Two Elements in an Array ([C++](Easy/1574_Maximum_Product_of_Two_Elements_in_an_Array.cpp))
 - Maximum Nesting Depth of the Parentheses ([C++](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
+- Find if Path Exists in Graph ([C++](Easy/2121_Find_if_Path_Exists_in_Graph.cpp))
 - Take Gifts From the Richest Pile ([C++](Easy/2692_Take_Gifts_From_the_Richest_Pile.cpp))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([C++](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.cpp))
 - Minimum Number of Pushes to Type Word I ([C++](Easy/3275_Minimum_Number_of_Pushes_to_Type_Word_I.cpp))
@@ -123,7 +124,7 @@ Total Solved: 108
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 27 |
+| Easy | 28 |
 | Medium | 68 |
 | Hard | 13 |
 
