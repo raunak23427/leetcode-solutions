@@ -1397,10 +1397,10 @@
     "difficulty": "Hard",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "53 ms",
+    "runtime": "56 ms",
     "memory": "133 MB",
-    "submissionId": "2178853765",
-    "timestamp": "1792677080",
+    "submissionId": "2178929592",
+    "timestamp": "1792682714",
     "path": "Hard/2176_Parallel_Courses_III.cpp"
   }
 ]
