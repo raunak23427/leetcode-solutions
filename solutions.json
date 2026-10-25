@@ -1339,6 +1339,19 @@
     "path": "Medium/0033_Search_in_Rotated_Sorted_Array.cpp"
   },
   {
+    "problemId": "278",
+    "problemTitle": "First Bad Version",
+    "problemSlug": "first-bad-version",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2181052054",
+    "timestamp": "1792900232",
+    "path": "Easy/0278_First_Bad_Version.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1430,16 +1443,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "278",
-    "problemTitle": "First Bad Version",
-    "problemSlug": "first-bad-version",
-    "difficulty": "Easy",
+    "problemId": "287",
+    "problemTitle": "Find the Duplicate Number",
+    "problemSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
     "runtime": "2 ms",
-    "memory": "7.9 MB",
-    "submissionId": "2181052054",
-    "timestamp": "1792900232",
-    "path": "Easy/0278_First_Bad_Version.cpp"
+    "memory": "64.9 MB",
+    "submissionId": "2181054911",
+    "timestamp": "1792900396",
+    "path": "Medium/0287_Find_the_Duplicate_Number.cpp"
   }
 ]
