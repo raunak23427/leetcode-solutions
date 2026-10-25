@@ -1313,6 +1313,19 @@
     "path": "Hard/2176_Parallel_Courses_III.cpp"
   },
   {
+    "problemId": "2121",
+    "problemTitle": "Find if Path Exists in Graph",
+    "problemSlug": "find-if-path-exists-in-graph",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "394 ms",
+    "memory": "267.6 MB",
+    "submissionId": "2179027447",
+    "timestamp": "1792689106",
+    "path": "Easy/2121_Find_if_Path_Exists_in_Graph.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1404,16 +1417,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "2121",
-    "problemTitle": "Find if Path Exists in Graph",
-    "problemSlug": "find-if-path-exists-in-graph",
-    "difficulty": "Easy",
+    "problemId": "33",
+    "problemTitle": "Search in Rotated Sorted Array",
+    "problemSlug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "394 ms",
-    "memory": "267.6 MB",
-    "submissionId": "2179027447",
-    "timestamp": "1792689106",
-    "path": "Easy/2121_Find_if_Path_Exists_in_Graph.cpp"
+    "runtime": "0 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2181051102",
+    "timestamp": "1792900175",
+    "path": "Medium/0033_Search_in_Rotated_Sorted_Array.cpp"
   }
 ]
