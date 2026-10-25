@@ -1449,10 +1449,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "2 ms",
-    "memory": "65.1 MB",
-    "submissionId": "2181055032",
-    "timestamp": "1792900403",
+    "runtime": "3 ms",
+    "memory": "64.9 MB",
+    "submissionId": "2181055170",
+    "timestamp": "1792900411",
     "path": "Medium/0287_Find_the_Duplicate_Number.cpp"
   }
 ]
