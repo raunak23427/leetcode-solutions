@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 109
+Total Solved: 110
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 109
 - 3Sum Closest ([C++](Medium/0016_3Sum_Closest.cpp))
 - 4Sum ([C++](Medium/0018_4Sum.cpp))
 - Swap Nodes in Pairs ([C++](Medium/0024_Swap_Nodes_in_Pairs.cpp))
+- Search in Rotated Sorted Array ([C++](Medium/0033_Search_in_Rotated_Sorted_Array.cpp))
 - Count and Say ([C++](Medium/0038_Count_and_Say.cpp))
 - Jump Game II ([C++](Medium/0045_Jump_Game_II.cpp))
 - Minimum Path Sum ([C++](Medium/0064_Minimum_Path_Sum.cpp))
@@ -125,7 +126,7 @@ Total Solved: 109
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 68 |
+| Medium | 69 |
 | Hard | 13 |
 
 ---
