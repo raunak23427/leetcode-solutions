@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 111
+Total Solved: 112
 
 ## Easy
 
@@ -72,6 +72,7 @@ Total Solved: 111
 - Kth Largest Element in an Array ([C++](Medium/0215_Kth_Largest_Element_in_an_Array.cpp))
 - Kth Smallest Element in a BST ([C++](Medium/0230_Kth_Smallest_Element_in_a_BST.cpp))
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
+- Find the Duplicate Number ([C++](Medium/0287_Find_the_Duplicate_Number.cpp))
 - Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
@@ -127,7 +128,7 @@ Total Solved: 111
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 69 |
+| Medium | 70 |
 | Hard | 13 |
 
 ---
