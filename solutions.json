@@ -1475,10 +1475,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "102 ms",
-    "memory": "110.5 MB",
-    "submissionId": "2181086364",
-    "timestamp": "1792903492",
+    "runtime": "89 ms",
+    "memory": "110.3 MB",
+    "submissionId": "2181087070",
+    "timestamp": "1792903571",
     "path": "Medium/0947_Online_Election.cpp"
   }
 ]
