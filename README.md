@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 110
+Total Solved: 111
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 110
 - Convert Sorted Array to Binary Search Tree ([C++](Easy/0108_Convert_Sorted_Array_to_Binary_Search_Tree.cpp))
 - Path Sum ([C++](Easy/0112_Path_Sum.cpp))
 - Count Complete Tree Nodes ([C++](Easy/0222_Count_Complete_Tree_Nodes.cpp))
+- First Bad Version ([C++](Easy/0278_First_Bad_Version.cpp))
 - Perfect Number ([C++](Easy/0507_Perfect_Number.cpp))
 - Search in a Binary Search Tree ([C++](Easy/0783_Search_in_a_Binary_Search_Tree.cpp))
 - Minimum Distance Between BST Nodes ([C++](Easy/0799_Minimum_Distance_Between_BST_Nodes.cpp))
@@ -125,7 +126,7 @@ Total Solved: 110
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 28 |
+| Easy | 29 |
 | Medium | 69 |
 | Hard | 13 |
 
