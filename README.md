@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 113
+Total Solved: 114
 
 ## Easy
 
@@ -81,6 +81,7 @@ Total Solved: 113
 - Subarray Product Less Than K ([C++](Medium/0713_Subarray_Product_Less_Than_K.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Keys and Rooms ([C++](Medium/0871_Keys_and_Rooms.cpp))
+- Online Election ([C++](Medium/0947_Online_Election.cpp))
 - Check Completeness of a Binary Tree ([C++](Medium/0998_Check_Completeness_of_a_Binary_Tree.cpp))
 - Subarray Sums Divisible by K ([C++](Medium/1016_Subarray_Sums_Divisible_by_K.cpp))
 - Rotting Oranges ([C++](Medium/1036_Rotting_Oranges.cpp))
@@ -129,7 +130,7 @@ Total Solved: 113
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 70 |
+| Medium | 71 |
 | Hard | 13 |
 
 ---
