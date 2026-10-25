@@ -1436,10 +1436,10 @@
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "1 ms",
-    "memory": "8.1 MB",
-    "submissionId": "2181051988",
-    "timestamp": "1792900228",
+    "runtime": "2 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2181052054",
+    "timestamp": "1792900232",
     "path": "Easy/0278_First_Bad_Version.cpp"
   }
 ]
