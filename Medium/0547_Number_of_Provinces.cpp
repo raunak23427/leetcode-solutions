@@ -3,7 +3,7 @@
  * Problem ID: 547
  * Difficulty: Medium
  * Language: C++
- * Runtime: 2 ms
+ * Runtime: 0 ms
  * Memory: 19.2 MB
  * Synced From: LeetCode
  * Date: 2026-10-26
