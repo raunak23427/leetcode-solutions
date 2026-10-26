@@ -1404,6 +1404,19 @@
     "path": "Medium/0907_Koko_Eating_Bananas.cpp"
   },
   {
+    "problemId": "547",
+    "problemTitle": "Number of Provinces",
+    "problemSlug": "number-of-provinces",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2182232247",
+    "timestamp": "1793020194",
+    "path": "Medium/0547_Number_of_Provinces.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1495,16 +1508,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "547",
-    "problemTitle": "Number of Provinces",
-    "problemSlug": "number-of-provinces",
+    "problemId": "744",
+    "problemTitle": "Network Delay Time",
+    "problemSlug": "network-delay-time",
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "19.2 MB",
-    "submissionId": "2182232247",
-    "timestamp": "1793020194",
-    "path": "Medium/0547_Number_of_Provinces.cpp"
+    "runtime": "76 ms",
+    "memory": "44.2 MB",
+    "submissionId": "2182234180",
+    "timestamp": "1793020334",
+    "path": "Medium/0744_Network_Delay_Time.cpp"
   }
 ]
