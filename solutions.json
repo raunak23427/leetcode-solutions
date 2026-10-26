@@ -1493,5 +1493,18 @@
     "submissionId": "2167552538",
     "timestamp": "1791568375",
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
+  },
+  {
+    "problemId": "547",
+    "problemTitle": "Number of Provinces",
+    "problemSlug": "number-of-provinces",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "19.2 MB",
+    "submissionId": "2182232164",
+    "timestamp": "1793020187",
+    "path": "Medium/0547_Number_of_Provinces.cpp"
   }
 ]
