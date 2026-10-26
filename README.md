@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 116
+Total Solved: 117
 
 ## Easy
 
@@ -80,6 +80,7 @@ Total Solved: 116
 - Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
 - Exchange Seats ([MySQL](Medium/0626_Exchange_Seats.sql))
 - Subarray Product Less Than K ([C++](Medium/0713_Subarray_Product_Less_Than_K.cpp))
+- Network Delay Time ([C++](Medium/0744_Network_Delay_Time.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
 - Keys and Rooms ([C++](Medium/0871_Keys_and_Rooms.cpp))
 - Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
@@ -132,7 +133,7 @@ Total Solved: 116
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 73 |
+| Medium | 74 |
 | Hard | 13 |
 
 ---
