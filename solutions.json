@@ -1514,10 +1514,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "84 ms",
-    "memory": "44.2 MB",
-    "submissionId": "2182234462",
-    "timestamp": "1793020356",
+    "runtime": "82 ms",
+    "memory": "44.3 MB",
+    "submissionId": "2182234764",
+    "timestamp": "1793020380",
     "path": "Medium/0744_Network_Delay_Time.cpp"
   }
 ]
