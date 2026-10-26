@@ -1501,10 +1501,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "2 ms",
+    "runtime": "0 ms",
     "memory": "19.2 MB",
-    "submissionId": "2182232164",
-    "timestamp": "1793020187",
+    "submissionId": "2182232247",
+    "timestamp": "1793020194",
     "path": "Medium/0547_Number_of_Provinces.cpp"
   }
 ]
