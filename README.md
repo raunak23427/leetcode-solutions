@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 117
+Total Solved: 118
 
 ## Easy
 
@@ -82,6 +82,7 @@ Total Solved: 117
 - Subarray Product Less Than K ([C++](Medium/0713_Subarray_Product_Less_Than_K.cpp))
 - Network Delay Time ([C++](Medium/0744_Network_Delay_Time.cpp))
 - Insert into a Binary Search Tree ([C++](Medium/0784_Insert_into_a_Binary_Search_Tree.cpp))
+- Cheapest Flights Within K Stops ([C++](Medium/0803_Cheapest_Flights_Within_K_Stops.cpp))
 - Keys and Rooms ([C++](Medium/0871_Keys_and_Rooms.cpp))
 - Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
 - Online Election ([C++](Medium/0947_Online_Election.cpp))
@@ -133,7 +134,7 @@ Total Solved: 117
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 74 |
+| Medium | 75 |
 | Hard | 13 |
 
 ---
