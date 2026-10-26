@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 115
+Total Solved: 116
 
 ## Easy
 
@@ -76,6 +76,7 @@ Total Solved: 115
 - Find the Duplicate Number ([C++](Medium/0287_Find_the_Duplicate_Number.cpp))
 - Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
+- Number of Provinces ([C++](Medium/0547_Number_of_Provinces.cpp))
 - Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
 - Exchange Seats ([MySQL](Medium/0626_Exchange_Seats.sql))
 - Subarray Product Less Than K ([C++](Medium/0713_Subarray_Product_Less_Than_K.cpp))
@@ -131,7 +132,7 @@ Total Solved: 115
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 72 |
+| Medium | 73 |
 | Hard | 13 |
 
 ---
