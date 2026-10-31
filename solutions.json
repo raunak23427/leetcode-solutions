@@ -1554,9 +1554,9 @@
     "language": "C++",
     "extension": "cpp",
     "runtime": "90 ms",
-    "memory": "8.1 MB",
-    "submissionId": "2186309636",
-    "timestamp": "1793462310",
+    "memory": "8 MB",
+    "submissionId": "2186310377",
+    "timestamp": "1793462371",
     "path": "Medium/0375_Guess_Number_Higher_or_Lower_II.cpp"
   }
 ]
