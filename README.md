@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 119
+Total Solved: 120
 
 ## Easy
 
@@ -75,6 +75,7 @@ Total Solved: 119
 - Lowest Common Ancestor of a Binary Search Tree ([C++](Medium/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp))
 - Find the Duplicate Number ([C++](Medium/0287_Find_the_Duplicate_Number.cpp))
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
+- Guess Number Higher or Lower II ([C++](Medium/0375_Guess_Number_Higher_or_Lower_II.cpp))
 - Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Number of Provinces ([C++](Medium/0547_Number_of_Provinces.cpp))
@@ -135,7 +136,7 @@ Total Solved: 119
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 76 |
+| Medium | 77 |
 | Hard | 13 |
 
 ---
