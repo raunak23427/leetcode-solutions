@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 121
+Total Solved: 122
 
 ## Easy
 
@@ -78,6 +78,7 @@ Total Solved: 121
 - Guess Number Higher or Lower II ([C++](Medium/0375_Guess_Number_Higher_or_Lower_II.cpp))
 - Kth Smallest Element in a Sorted Matrix ([C++](Medium/0378_Kth_Smallest_Element_in_a_Sorted_Matrix.cpp))
 - Insert Delete GetRandom O(1) ([C++](Medium/0380_Insert_Delete_GetRandom_O1.cpp))
+- Nth Digit ([C++](Medium/0400_Nth_Digit.cpp))
 - Predict the Winner ([C++](Medium/0486_Predict_the_Winner.cpp))
 - Number of Provinces ([C++](Medium/0547_Number_of_Provinces.cpp))
 - Subarray Sum Equals K ([C++](Medium/0560_Subarray_Sum_Equals_K.cpp))
@@ -137,7 +138,7 @@ Total Solved: 121
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 78 |
+| Medium | 79 |
 | Hard | 13 |
 
 ---
