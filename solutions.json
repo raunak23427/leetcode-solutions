@@ -1579,10 +1579,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "1 ms",
-    "memory": "7.9 MB",
-    "submissionId": "2186313657",
-    "timestamp": "1793462645",
+    "runtime": "0 ms",
+    "memory": "7.7 MB",
+    "submissionId": "2186323608",
+    "timestamp": "1793463479",
     "path": "Medium/0400_Nth_Digit.cpp"
   }
 ]
