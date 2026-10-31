@@ -1443,6 +1443,19 @@
     "path": "Medium/0803_Cheapest_Flights_Within_K_Stops.cpp"
   },
   {
+    "problemId": "372",
+    "problemTitle": "Super Pow",
+    "problemSlug": "super-pow",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2186304871",
+    "timestamp": "1793461910",
+    "path": "Medium/0372_Super_Pow.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1534,16 +1547,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "372",
-    "problemTitle": "Super Pow",
-    "problemSlug": "super-pow",
+    "problemId": "375",
+    "problemTitle": "Guess Number Higher or Lower II",
+    "problemSlug": "guess-number-higher-or-lower-ii",
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "3 ms",
-    "memory": "15.2 MB",
-    "submissionId": "2186304871",
-    "timestamp": "1793461910",
-    "path": "Medium/0372_Super_Pow.cpp"
+    "runtime": "90 ms",
+    "memory": "8.1 MB",
+    "submissionId": "2186308839",
+    "timestamp": "1793462248",
+    "path": "Medium/0375_Guess_Number_Higher_or_Lower_II.cpp"
   }
 ]
