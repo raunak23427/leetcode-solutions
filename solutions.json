@@ -1566,10 +1566,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "160 ms",
+    "runtime": "154 ms",
     "memory": "113 MB",
-    "submissionId": "2186311834",
-    "timestamp": "1793462495",
+    "submissionId": "2186311918",
+    "timestamp": "1793462503",
     "path": "Medium/0380_Insert_Delete_GetRandom_O1.cpp"
   }
 ]
