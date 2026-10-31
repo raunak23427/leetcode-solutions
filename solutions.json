@@ -1469,6 +1469,19 @@
     "path": "Medium/0375_Guess_Number_Higher_or_Lower_II.cpp"
   },
   {
+    "problemId": "380",
+    "problemTitle": "Insert Delete GetRandom O(1)",
+    "problemSlug": "insert-delete-getrandom-o1",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "154 ms",
+    "memory": "113 MB",
+    "submissionId": "2186311918",
+    "timestamp": "1793462503",
+    "path": "Medium/0380_Insert_Delete_GetRandom_O1.cpp"
+  },
+  {
     "problemId": "1182",
     "problemTitle": "Game Play Analysis IV",
     "problemSlug": "game-play-analysis-iv",
@@ -1560,16 +1573,16 @@
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
   },
   {
-    "problemId": "380",
-    "problemTitle": "Insert Delete GetRandom O(1)",
-    "problemSlug": "insert-delete-getrandom-o1",
+    "problemId": "400",
+    "problemTitle": "Nth Digit",
+    "problemSlug": "nth-digit",
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "154 ms",
-    "memory": "113 MB",
-    "submissionId": "2186311918",
-    "timestamp": "1793462503",
-    "path": "Medium/0380_Insert_Delete_GetRandom_O1.cpp"
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2186313364",
+    "timestamp": "1793462624",
+    "path": "Medium/0400_Nth_Digit.cpp"
   }
 ]
