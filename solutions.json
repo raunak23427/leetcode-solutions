@@ -1532,5 +1532,18 @@
     "submissionId": "2167552538",
     "timestamp": "1791568375",
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
+  },
+  {
+    "problemId": "372",
+    "problemTitle": "Super Pow",
+    "problemSlug": "super-pow",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "15.2 MB",
+    "submissionId": "2186304871",
+    "timestamp": "1793461910",
+    "path": "Medium/0372_Super_Pow.cpp"
   }
 ]
