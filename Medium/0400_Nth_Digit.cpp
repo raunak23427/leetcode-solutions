@@ -3,7 +3,7 @@
  * Problem ID: 400
  * Difficulty: Medium
  * Language: C++
- * Runtime: 0 ms
+ * Runtime: 1 ms
  * Memory: 7.9 MB
  * Synced From: LeetCode
  * Date: 2026-10-31
