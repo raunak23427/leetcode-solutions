@@ -1423,10 +1423,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "83 ms",
-    "memory": "44.2 MB",
-    "submissionId": "2182235077",
-    "timestamp": "1793020404",
+    "runtime": "73 ms",
+    "memory": "44.3 MB",
+    "submissionId": "2187600948",
+    "timestamp": "1793608476",
     "path": "Medium/0744_Network_Delay_Time.cpp"
   },
   {
