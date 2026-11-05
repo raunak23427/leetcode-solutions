@@ -4,9 +4,9 @@
  * Difficulty: Medium
  * Language: C++
  * Runtime: 0 ms
- * Memory: 7.7 MB
+ * Memory: 7.9 MB
  * Synced From: LeetCode
- * Date: 2026-10-31
+ * Date: 2026-11-05
  */
 
 class Solution {
