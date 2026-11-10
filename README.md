@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 123
+Total Solved: 124
 
 ## Easy
 
@@ -99,6 +99,7 @@ Total Solved: 123
 - Smallest Subsequence of Distinct Characters ([C++](Medium/1159_Smallest_Subsequence_of_Distinct_Characters.cpp))
 - Game Play Analysis IV ([MySQL](Medium/1182_Game_Play_Analysis_IV.sql))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
+- Path with Maximum Probability ([C++](Medium/1325_Path_with_Maximum_Probability.cpp))
 - All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
 - Find Two Non-overlapping Sub-arrays Each With Target Sum ([C++](Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp))
 - Make Sum Divisible by P ([C++](Medium/1694_Make_Sum_Divisible_by_P.cpp))
@@ -139,7 +140,7 @@ Total Solved: 123
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 80 |
+| Medium | 81 |
 | Hard | 13 |
 
 ---
