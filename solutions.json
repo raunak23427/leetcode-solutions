@@ -1605,10 +1605,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "58 ms",
-    "memory": "71.5 MB",
-    "submissionId": "2193424369",
-    "timestamp": "1794338106",
+    "runtime": "59 ms",
+    "memory": "71.3 MB",
+    "submissionId": "2193424422",
+    "timestamp": "1794338112",
     "path": "Medium/1325_Path_with_Maximum_Probability.cpp"
   }
 ]
