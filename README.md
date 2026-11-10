@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 122
+Total Solved: 123
 
 ## Easy
 
@@ -53,6 +53,7 @@ Total Solved: 122
 - Minimum Path Sum ([C++](Medium/0064_Minimum_Path_Sum.cpp))
 - Simplify Path ([C++](Medium/0071_Simplify_Path.cpp))
 - Edit Distance ([C++](Medium/0072_Edit_Distance.cpp))
+- Combinations ([C++](Medium/0077_Combinations.cpp))
 - Decode Ways ([C++](Medium/0091_Decode_Ways.cpp))
 - Unique Binary Search Trees ([C++](Medium/0096_Unique_Binary_Search_Trees.cpp))
 - Validate Binary Search Tree ([C++](Medium/0098_Validate_Binary_Search_Tree.cpp))
@@ -138,7 +139,7 @@ Total Solved: 122
 | Difficulty | Count |
 |------------|--------|
 | Easy | 30 |
-| Medium | 79 |
+| Medium | 80 |
 | Hard | 13 |
 
 ---
