@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 124
+Total Solved: 125
 
 ## Easy
 
+- Longest Common Prefix ([C++](Easy/0014_Longest_Common_Prefix.cpp))
 - Valid Parentheses ([C++](Easy/0020_Valid_Parentheses.cpp))
 - Symmetric Tree ([C++](Easy/0101_Symmetric_Tree.cpp))
 - Maximum Depth of Binary Tree ([C++](Easy/0104_Maximum_Depth_of_Binary_Tree.cpp))
@@ -139,7 +140,7 @@ Total Solved: 124
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 30 |
+| Easy | 31 |
 | Medium | 81 |
 | Hard | 13 |
 
