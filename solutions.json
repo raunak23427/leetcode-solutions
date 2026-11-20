@@ -1623,5 +1623,18 @@
     "submissionId": "2167552538",
     "timestamp": "1791568375",
     "path": "Easy/1509_Replace_Employee_ID_With_The_Unique_Identifier.sql"
+  },
+  {
+    "problemId": "1456",
+    "problemTitle": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "problemSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "12 ms",
+    "memory": "16.8 MB",
+    "submissionId": "2199746836",
+    "timestamp": "1795150685",
+    "path": "Medium/1456_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp"
   }
 ]
