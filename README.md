@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 125
+Total Solved: 126
 
 ## Easy
 
@@ -102,6 +102,7 @@ Total Solved: 125
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - Path with Maximum Probability ([C++](Medium/1325_Path_with_Maximum_Probability.cpp))
 - All Elements in Two Binary Search Trees ([C++](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.cpp))
+- Find the City With the Smallest Number of Neighbors at a Threshold Distance ([C++](Medium/1456_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp))
 - Find Two Non-overlapping Sub-arrays Each With Target Sum ([C++](Medium/1573_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum.cpp))
 - Make Sum Divisible by P ([C++](Medium/1694_Make_Sum_Divisible_by_P.cpp))
 - Minimum Operations to Reduce X to Zero ([C++](Medium/1776_Minimum_Operations_to_Reduce_X_to_Zero.cpp))
@@ -141,7 +142,7 @@ Total Solved: 125
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 81 |
+| Medium | 82 |
 | Hard | 13 |
 
 ---
