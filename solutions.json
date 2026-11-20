@@ -1631,10 +1631,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "8 ms",
-    "memory": "16.9 MB",
-    "submissionId": "2199746963",
-    "timestamp": "1795150699",
+    "runtime": "14 ms",
+    "memory": "16.8 MB",
+    "submissionId": "2199747040",
+    "timestamp": "1795150707",
     "path": "Medium/1456_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp"
   }
 ]
